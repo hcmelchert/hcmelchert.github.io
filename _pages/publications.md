@@ -1,0 +1,273 @@
+---
+layout: single
+title: "Publications"
+permalink: /publications/
+author_profile: true
+redirect_from:
+  - /
+  - /about/
+  - /about.html
+---
+
+## Monographs
+
+- <i>Ablative and Instrumental in Hittite</i> (unpublished Harvard Ph.D. dissertation, 1977). [PDF](/files/melchertdissertation.pdf)
+- <i>Studies in Hittite Historical Phonology</i>, Vandenhoeck & Ruprecht, Göttingen, 1984, 176pp.
+- <i>Lycian Lexicon,</i> self-published, Chapel Hill, 1989, iv + 122pp.
+- <i>Cuneiform Luvian Lexicon</i>, self-published, Chapel Hill, 1993, vi + 298pp. [PDF](/files/LUVLEX.pdf)
+- <i>Lycian Lexicon</i> (2nd revised edition), self-published, Chapel Hill, 1993, vi + 130pp.
+- <i>Anatolian Historical Phonology</i>, Rodopi, Amsterdam, 1994, iv + 457pp.
+- <i>A Dictionary of the Lycian Language</i>, Beech Stave Press, Ann Arbor/New York, 2004, xvii + 138 pp. [www.beechstave.com](http://www.beechstave.com)
+- <i>A Grammar of the Hittite Language</i> (with Harry A. Hoffner, Jr.), Eisenbrauns, Winona Lake, 2008, xxii + 468 pp. (Part 1), 75 pp. (Part 2) [Addenda & Corrigenda (PDF)](/files/Addenda%26CorrigendaGrHL2.pdf)
+
+## Edited Books
+
+- <i>Mír Curad. Studies in Honor of Calvert Watkins</i>, Institut für Sprachwissenschaft der Universität Innsbruck, Innsbruck, 1998, xviii+715 pp (chief editor, with Jay Jasanoff and Lisi Oliver)
+- <i>The Luwians</i> (Handbook of Oriental Studies, Section One, Near and Middle East Volume 68), Brill, Leiden/Boston, 2003, xix+383 pp [Addenda & Corrigenda (PDF)](/files/Addenda%20and%20Corrigenda.pdf)
+
+## Articles
+
+1. 'Hittite <i>ḫašša- ḫanzašša-</i>,' <i>Revue hittite et asianique</i> 31 (1973) [1976] 57-70 [PDF](/files/hassa-.pdf)
+2. 'Secondary Derivatives in <i>-yú-</i> in the Rigveda,' <i>Harvard Indo-European Studies</i> 2 (1975) 163-198
+3. '"Exceptions" to Exceptionless Sound Laws,' <i>Lingua</i> 35 (1975) 135-153 [PDF](/files/exceptionstosoundlaws.pdf)
+4. 'Tocharian Verb Stems in <i>-tk-</i>,' <i>Zeitschrift für Vergleichende Sprachforschung</i> 91 (1977) 93-130 [PDF](/files/tkverbs.pdf)
+5. 'The Acts of Hattušili I,' <i>Journal of Near Eastern Studies</i> 37 (1978) 1-22 [PDF](/files/actsofhattusiliI.pdf)
+6. 'On §§56, 162 and 171 of the Hittite Laws,' <i>Journal of Cuneiform Studies</i> 31 (1979) 57-64 [PDF](/files/hittitelaws.pdf)
+7. 'Three Hittite Etymologies,' <i>Zeitschrift für Vergleichende Sprachforschung</i> 93 (1979) 262-271 [PDF](/files/3Hittiteetymologies.pdf)
+8. 'The Use of IKU in Hittite Texts,' <i>Journal of Cuneiform Studies</i> 32 (1980) 50-56 [PDF](/files/IKUinhittite.pdf)
+9. 'Some Aspects of "Aspect" in Mandarin Chinese,' <i>Linguistics</i> 18 (1980) 635-654 [PDF](/files/chineseaspect.pdf)
+10. 'The Hittite Word for "Son",' <i>Indogermanische Forschungen</i> 85 (1980) 90-95
+11. '"God-Drinking": a Syntactic Transformation in Hittite,' <i>Journal of Indo-European Studies</i> 9 (1981) 245-254 [PDF](/files/god-drinking.pdf)
+12. 'The Second Singular Personal Pronoun in Anatolian,' <i>Münchener Studien zur Sprachwissenschaft</i> 42 (1983) 151-165 [PDF](/files/2ndsingularpronoun.pdf)
+13. 'A "New" PIE \*<i>men</i> Suffix,' <i>Die Sprache</i> 29 (1983) 1-26 [PDF](/files/men-suffix.pdf)
+14. 'Pudenda Hethitica,' <i>Journal of Cuneiform Studies</i> 35 (1983) 137-145 [PDF](/files/pudendahethitica.pdf)
+15. 'Notes on Palaic,' <i>Zeitschrift für Vergleichende Sprachforschung</i> 98 (1984) 22-43 [PDF](/files/palaicnotes.pdf)
+16. 'Hittite <i>imma</i> and Latin <i>immo</i>,' <i>Zeitschrift für Vergleichende Sprachforschung</i> 98 (1985) 184-205 [PDF](/files/hittiteimma.pdf)
+17. 'Hittite <i>uwaš</i> and Congeners,' <i>Indogermanische Forschungen</i> 91 (1986) 102-115 [PDF](/files/hittiteuwas.pdf)
+18. 'Proto-Indo-European Velars in Luvian,' in <i>Studies in Memory of Warren Cowgill</i> (ed. Calvert Watkins) (1987)182-204 [PDF](/files/gscowgill.pdf)
+19. 'Reflexes of \*h3 in Anatolian,' <i>Die Sprache</i> 33 (1987) 19-28 [PDF](/files/h3inAnatolian.pdf)
+20. 'Final -r in Hittite,' in <i>A Linguistic Happening in Memory of Ben Schwarz</i> (ed. Yoël Arbeitman) (1988) 215-234 [PDF](/files/final-r.pdf)
+21. '"Thorn" and "Minus" in Hieroglyphic Luvian Orthography,' <i>Anatolian Studies</i> 38 (1988) 29-42 [PDF](/files/thorn%26minus.pdf)
+22. 'Luvian Lexical Notes,' <i>Historische Sprachforschung</i> 101 (1988) 211-243 [PDF](/files/luvianlexicalnotes.pdf)
+23. 'New Luvo-Lycian Isoglosses,' <i>Historische Sprachforschung</i> 102 (1989) 23-45 [PDF](/files/luvo-lycian.pdf)
+24. 'PIE "dog" in Hittite?' <i>Münchener Studien zur Sprachwissenschaft</i> 50 (1989) 97-101 [PDF](/files/doginhittite.pdf)
+25. 'Adjective Stems in \*<i>-iyo</i>- in Anatolian,' <i>Historische Sprachforschung</i> 103 (1990) 198-207 [PDF](/files/iyo-adjectives.pdf)
+26. 'The Lydian Emphasizing and Reflexive Particle <i>-ś/-is</i>,' <i>Kadmos</i> 30/2(1991) 131-142 [PDF](/files/lydianreflexive.pdf)
+27. 'Death and the Hittite King,' in <i>Perspectives on Indo-European Language, Culture and Religion. Studies in Honour of Edgar C. Polomé</i> (ed. Roger Pearson) (1991) 1.182-188 [PDF](/files/melchert1991FSpolom%C3%A9.pdf)
+28. 'Relative Chronology and Anatolian: the Vowel System' in <i>Rekonstruktion und Relative Chronologie, Akten der VIII. Fachtagung der indogermanischen Gesellschaft</i> (ed. R. Beekes et al.) (1992) 41-53 [PDF](/files/relchron.pdf)
+29. 'The Third Person Present in Lydian,' <i>Indogermanische Forschungen</i> 97 (1992) 31-54 [PDF](/files/3rdpresentlydian.pdf)
+30. 'Hittite Vocalism,' in <i>Per una grammatica ittita</i> (ed. Onofrio Carruba) (1992) 183-196 [PDF](/files/hittitevocalism.pdf)
+31. 'The Middle Voice in Lycian,' <i>Historische Sprachforschung</i> 105 (1992)189-199 [PDF](/files/lycianmiddle.pdf)
+32. 'A New Interpretation of Lines c 3-9 of the Xanthos Stele,' in <i>Akten des II. Internationalen Lykien-Symposions</i> (edd. J. Borchhardt & G. Dobesch) (1993) 1.31-34 [PDF](/files/xanthosc3-9.pdf)
+33. 'A New Anatolian "Law of Finals",' <i>Journal of Ancient Civilizations</i> 8 (1993) 105-113 [PDF](/files/lawoffinals.pdf)
+34. 'Historical Phonology of Anatolian,' <i>Journal of Indo-European Studies</i> 21 (1993) 237-257 [PDF](/files/anathistphon.pdf)
+35. 'Remarks on Some New Readings in Carian,' <i>Kadmos</i> 32 (1993) 77-86 [PDF](/files/carianremarks.pdf)
+36. 'The Feminine Gender in Anatolian,' in Früh-, Mittel-, Spätindogermanisch. <i>Akten der IX. Fachtagung der indogermanischen Gesellschaft</i> (ed. George Dunkel et al.) (1994) 231-244 [PDF](/files/feminine.pdf)
+37. 'Anatolian', in <i>Langues indo-européennes</i> (ed. Françoise Bader) (1994) 121-136
+38. 'PIE \*<i>y</i> > Lydian <i>d</i>,' in <i>Iranian and Indo-European Studies. Memorial Volume of O. Klíma</i> (ed. P. Vavroušek) (1994) 181-187 [PDF](/files/lydiand.pdf)
+39. '"Cop's Law" in Common Anatolian,' in <i>In honorem Holger Pedersen. Kolloquium der indogermanischen Gesellschaft vom 26. bis 28. März 1993 in Kopenhagen</i> (ed. Jens Rasmussen) (1994) 297-306 [PDF](/files/cop%27slaw.pdf)
+40. 'Indo-European Languages of Anatolia,' in <i>Civilizations of the Ancient Near East</i> (ed. Jack Sasson) (1995) 4.2151-2159 [PDF](/files/cane.pdf)
+41. 'Nominal Inflection in Neo-Hittite,' in <i>Atti del II Congresso Internazionale di Hittitologia</i> (ed. O. Carruba et al.) (1995) 269-274 [PDF](/files/NHnominflection.pdf)
+42. 'Anatolian Hieroglyphs,' in <i>The World's Writing Systems</i> (edd. William Bright and Peter Daniels) (1996) 120-124 [PDF](/files/hluvianscript.pdf)
+43. 'Lycia. Language' and 'Lydia. Language,' in <i>Oxford Classical Dictionary,</i> 3rd ed. (edd. S. Hornblower & A. Spawforth) (1996) 895, 899 [PDF](/files/lycian-lydian.pdf)
+44. 'Hittite Phonology,' in <i>Phonologies of Asia and Africa</i> (ed. Alan S. Kaye) (1997) 557-567
+45. 'Luvian /ta:na-/ "sanctified, inviolable",' <i>Historische Sprachforschung</i> 107 (1997) 47-51 [PDF](/files/tana.pdf)
+46. 'Denominative Verbs in Anatolian,' in <i>Studies in Honor of Jaan Puhvel. Part One. Ancient Languages and Philology</i> (ed. D. Disterheft et al.) (1997) 131-138 [PDF](/files/denomverbs.pdf)
+47. 'PIE Dental Consonants in Lydian,' in <i>Festschrift for Eric P. Hamp. Volume II</i> (ed. D. Q. Adams) (1997) 32-47 [PDF](/files/lydiandentals.pdf)
+48. 'Syncope and Anaptyxis in Hittite,' in <i>Sound Law and Analogy. Papers in honor of Robert S. P. Beekes on the occasion of his 60th birthday</i> (ed. A. Lubotsky) (1997) 177-180 [PDF](/files/FSbeekes.pdf)
+49. 'Traces of a PIE Aspectual Contrast in Anatolian?' <i>Incontri Linguistici</i> 20 (1997) 83-92 [PDF](/files/incling20.pdf)
+50. 'Poetic Meter and Phrasal Stress in Hittite,' in <i>Mír Curad. Studies in Honor of Calvert Watkins</i> (edd. J. Jasanoff, H. C. Melchert & L. Oliver) (1998) 483-494 [PDF](/files/fswatkins.pdf)
+51. 'Hittite <i>arku-</i> "chant, intone" vs. <i>arkuwāi-</i> "make a plea",' <i>Journal of Cuneiform Studies</i> 50 (1998) 45-51 [PDF](/files/arku-.pdf)
+52. 'The Dialectal Position of Anatolian within Indo-European,' <i>Proceedings of the 24th Meeting of the Berkeley Linguistics Society, Special Session on Indo-European Subgrouping and Internal Relations</i> (ed. B. Bergen et al.) (1998) 24-31 [PDF](/files/berkeley.pdf)
+53. 'Aspects of Verbal Aspect in Hittite,' in <i>Uluslararası Hititoloji Kongresi Bildirleri. Acts of the IIIrd International Congress of Hittitology, Çorum, Sep. 16-22, 1996</i> (ed. S. Alp & A. Süel) (1998) 413-418 [PDF](/files/aspect1.pdf)
+54. 'Two Problems of Anatolian Nominal Derivation,' in <i>Compositiones Indogermanicae in memoriam Jochem Schindler</i> (ed. H. C. Luschützky and H. Eichner) (1998) 365-375 [PDF](/files/GSschindler.pdf)
+55. 'I contributi del luvio geroglifico agli studi di indoeuropeistica,' in <i>Il Geroglifico Anatolico. Atti del Colloquio della tavola rotonda Napoli-Procida, 5-9 giugno 1995</i> (ed. M. Marazzi) (1998) 259-265 [PDF](/files/procida.pdf)
+56. 'Once more Greek <i>tolúpē</i>,' <i>Orpheus</i> 8 (Memorial Volume for V. Georgiev) (1998) 47-51 [PDF](/files/tolupe.pdf)
+57. 'Hittite <i>karzan-</i> "basket of wool",' in <i>Studi e Testi II</i> (= Eothen 10) (ed. S. de Martino & F. Imparati) (1999) 121-133 [PDF](/files/karzan.pdf)
+58. 'Carian <i>mdoΩun</i> "we have established",' <i>Kadmos</i> 38 (1999) 33-41 [PDF](/files/carianmdoWun.pdf)
+59. 'Once More on the Conclusion of the Lycian Trilingual of the Létôon, <i>Historische Sprachforschung</i> 112 (1999) 75-77 [PDF](/files/letoonend.pdf)
+60. '"(Zu)eignung" in Anatolian and Indo-European,' in <i>Celtica et Indogermanica. Festschrift für W. Meid zum 70. Geburtstag</i> (edd. P. Anreiter & E. Jerem) (1999) 243-247 [PDF](/files/fsmeid.pdf)
+61. 'Hittite tuk(kan)zi,' <i>Ktema</i> 24 (1999) 17-23 (À la mémoire de Lisbeth Franck) [PDF](/files/tukkanzi.pdf)
+62. 'Aspects of Cuneiform Luvian Nominal Inflection,' in <i>The Asia Minor Connexion. Studies on the Pre-Greek Languages in Memory of Charles Carter</i> (ed. Yoël Arbeitman) (2000) 173-183 [PDF](/files/gscarter.pdf)
+63. 'Tocharian Plurals in <i>-nt-</i> and Related Phenomena,' <i>Journal of Tocharian and Indo-European Studies</i> 9 (2000) 53-75 [PDF](/files/-nt-plurals.pdf)
+64. 'Hittite Nominal Stems in <i>-il</i>,' in <i>Anatolisch und Indogermanisch/Anatolico e indoeuropeo (</i>edd. O. Carruba & W. Meid (2001) 263-272 [PDF](/files/il-stems.pdf)
+65. 'Hittite <i>damnaššara-</i> "domestic"/d<i>Damnaššareš</i> "household deities",' <i>Journal of Ancient Near Eastern Religions</i> 1 (2002) 150-157 [PDF](/files/damnassara.pdf)
+66. 'Tarhuntassa in the Südburg Hieroglyphic Inscription,' in <i>Recent Developments in Hittite Archaeology and History. Papers in Memory of Hans G. Güterbock</i> (edd. A. Yener & H. Hoffner) (2002) 137-143 [PDF](/files/tarhuntassa.pdf)
+67. 'A Hittite Fertility Rite?' in <i>Akten des IV. internationalen Kongresses für Hethitologie. Würzburg 4.-8. Oktober 1999</i> (ed. G. Wilhelm) (2002) 404-409 [PDF](/files/ararkiskanzi.pdf)
+68. 'Sibilants in Carian,' in <i>Novalis Indogermanica. Festschrift für Günter Neumann zum 80. Geburtstag</i> (edd. M. Fritz & S. Zeilfelder) (2002) 305-313 [PDF](/files/cariansibilants.pdf)
+69. 'The God Sanda in Lycia?' in <i>Silva Anatolica. Anatolian Studies Presented to Maciej Popko on the Occasion of His 65th Birthday</i> (ed. P. Taracha) (2002) 241-251 [PDF](/files/FSpopko.pdf)
+70. 'Covert Possessive Compounds in Hittite,' in <i>The Linguist's Linguist. A Collection of Papers in Honor of Alexis Manaster Ramer</i> (ed. F. Cavoto) (2002) 297-302 [PDF](/files/covertcompounds.pdf)
+71. 'Sanskrit <i>sárdigṛdi-</i>,' in <i>Indic and Iranian Studies in Honor of Stanley Insler on his Sixty-Fifth Birthday</i> (edd. J. Brereton and St. Jamison) (2002) 325-328 [PDF](/files/sardigrdi.pdf)
+72. 'A Practical Approach to Verbal Aspect in Hittite' (with Harry A. Hoffner Jr.), in <i>Anatolia Antica. Studi in memoria di Fiorella Imparati</i> (ed. S. di Martino and F. Pecchioli Daddi) (2002) 377-390 [PDF](/files/gsimparati.pdf)
+73. 'Hieroglyphic Luvian REL-<i>ipa</i> "indeed, certainly",' in <i>Indo-European Perspectives</i> (ed. M. Southern) (2002) 223-232 [PDF](/files/REL-ipa.pdf)
+74. 'Introduction; Prehistory; Language' (Chapters 1,2 and 5) in <i>The Luwians</i> (ed. C. Melchert) (2003) 1-7, 8-26, and 170-210
+75. 'The Dialectal Position of Lycian and Lydian with Anatolian,' in <i>Licia e Lidia prima dell' Ellenizzazione. Atti del Convegno internazionale. Roma, 11-12 ottobre 1999</i> (ed. M. Giorgieri et al.) (2003) 265-272 [PDF](/files/licia%26lidia.pdf)
+76. 'Hittite Nominal Stems in <i>-anzan-</i>,' in <i>Indogermanisches Nomen. Akten der Arbeitstagung der Indogermanischen Gesellschaft/Society for I-E Studies/Société des Etudes Indo-Européennes. Freiburg 19. bis 21. September 2001</i>(ed. E. Tichy et al.) (2003) 129-139 [PDF](/files/sumanzan.pdf)
+77. 'PIE "thorn" in Cuneiform Luvian?', in <i>Proceedings of the 14th Annual UCLA Indo-European Conference,</i> ed. K. Jones-Bley et al.) (2003) 145-161 [PDF](/files/thorn.pdf)
+78. 'Hittite <i>antaka-</i> "loins" and an Overlooked Myth about Fire,' in <i>Hittite Studies in Honor of Harry A. Hoffner Jr.</i> (ed. G. Beckman, R. Beal & G. McMahon) (2003) 281-287 [PDF](/files/FShoffner.pdf)
+79. 'Hieroglyphic Luvian Verbs in <i>-min(a)</i>,' in <i>Per Aspera ad Asteriskos. Studia Indogermanica in honorem Jens Elmegård Rasmussen sexagenarii Idibus Martiis anno MMIV</i> (ed. A. Hyllested et al.) (2004) 355-362 [PDF](/files/mina.pdf)
+80. 'The Inflection of Some Irregular Luvian Neuter Nouns,' in <i>Šarnikziel</i>. <i>Hethitologische Studien zum Gedenken an Emil Orgetorix Forrer (</i>edd. D. Groddek and S. Rößle) (2004) 471-475 [PDF](/files/sarnikzel.pdf)
+81. 'Luvian, Palaic, Lycian, Lydian, Carian,' in <i>The Cambridge Encyclopedia of the World's Ancient Languages</i> (ed. R. Woodard) (2004) 576-613
+82. 'A Luwian Dedication,' in <i>Indo-European Perspectives. Studies in Honour of Anna Morpurgo Davies</i> (ed. J. Penney) (2004) 370-379 [PDF](/files/fsmorpurgo.pdf)
+83. 'Second Thoughts on PIE <i>\*y</i> and <i>\*h2</i> in Lydian,' in <i>Studia Anatolica et Varia. Mélange offerts à Professeur René Lebrun</i>, Volume 2 (ed. M. Mazoyer and O. Casabonne) (2004) 139-150 [PDF](/files/lebrun.pdf)
+84. 'Latin <i>insolēscō</i>, Hittite <i>šulle(šš)-</i> and PIE Statives in <i>-ē-'</i> in <i>Hṛdā́ mánasā. Studies Presented to Professor Leonard G. Herzenberg on His 70th Birthday</i> (ed. N. N. Kazansky) (2004) 90-98 [PDF](/files/fsherzenberg.pdf)
+85. 'The Problem of Luvian Influence on Hittite', in <i>Sprachkontakt und Sprachwandel, Akten der XI. Fachtagung der Indogermanischen Gesellschaft 17.-23. September 2000, Halle an der Saale</i> (edd. G. Meiser & O. Hackstein) (2005) 445-460 [PDF](/files/halle.pdf)
+86. 'Indo-European Verbal Art in Luvian,' in <i>La langue poétique indo-européenne</i> (edd. G. Pinault and D. Petit) (2006) 291-298 [PDF](/files/luvianverbalart.pdf)
+87. 'Medio-Passive Forms in Lydian?' in <i>Studi linguistici in onore di Roberto Gusmani</i> (ed. R. Bombi et al.) (2006) 1161-1166 [PDF](/files/fsgusmani.pdf)
+88. 'The Boundaries of Tarhuntassa Revisited,' in <i>Belkıs Dinçol ve Ali Dinçol’a Armağan</i> (ed. M. Alparslan et al.) (2007) 507-513 [PDF](/files/dincolsfs.pdf)
+89. 'Hittite <i>huwapp-, huppā(i)-</i> and <i>huppiya-</i>,' in <i>Tabularia Hethaeorum. Hethitologische Beiträge Silvin Košak zum 65. Geburtstag</i> (edd. D. Groddek & M. Zorman) (2007) 513-519 [PDF](/files/fsko%C5%A1ak.pdf)
+90. 'PIE <i>\*h2esp-</i> ‘to cut’,' in <i>Verba Docenti. Studies in historical and Indo-European linguistics presented to Jay H. Jasanoff by students, colleagues, and friends</i> (ed. A. Nussbaum) (2007) 253-258 [PDF](/files/fsjasanoff.pdf)
+91. 'Hittite Morphology,' in <i>Morphologies of Asia and Africa</i> (ed. A. Kaye) (2007) 755-773 [PDF](/files/hittitemorphology.pdf)
+92. 'Luvian Evidence for PIE <i>\*h3eit</i>- ‘take along; fetch,' <i>Indo-European Studies Bulletin, UCLA</i> 12/1 (2007) 1-3 [PDF](/files/PIEh3eit.pdf)
+93. 'New Light on Hittite Verse and Meter?,' in <i>Proceedings of the Eighteenth Annual UCLA Indo-European Conference, November 3-4, 2006</i> (edd. K. Jones-Bley et al.) (2007) 117-128 [PDF](/files/ucla18.pdf)
+94. 'Middle Hittite Revisited,' in <i>VI Congresso Internazionale di Ittitologia, Roma, 5-9 settembre 2005</i> (edd. A. Archi & R. Francia) (2007) 525-531 [PDF](/files/melchertrome.pdf)
+95. 'Neuter Stems with Suffix <i>\*-(e)n-</i> in Anatolian and Proto-Indo-European,' <i>Die Sprache</i> 47 (2007/2008) [2010] 163-181 [PDF](/files/enstems.pdf)
+96. 'Hittite <i>duwān (parā)</i>' <i>Morphology and Language History in honour of Harold Koch</i> (ed. C. Bowern, B. Evans & L. Miceli) (2008) 201-209 [PDF](/files/fsharoldkoch.pdf)
+97. 'Problems in Hittite Pronominal Inflection,' <i>Evidence and Counter-Evidence. Essays in honour of Frederik Kortlandt. Volume 1: Balto-Slavic and Indo-European Linguistics</i> (edd. A. Lubotsky, J. Schaeken and J. Wiedenhof) (2008) 367-375 [PDF](/files/fskortlandt.pdf)
+98. 'Greek <i>mólybdos</i> as a Loanword from Lydian,' in <i>Anatolian Interfaces: Hittites, Greeks and their Neighbors. Proceedings of an International Conference on Cross-Cultural Interaction, September 17-19, 2004, Emory University, Atlanta, GA</i> (edd. B. Collins, M. Bachvarova and I. Rutherford (2008) 153-158 [PDF](/files/molybdos.pdf)
+99. 'Deictic Pronouns in Anatolian,' in <i>East and West: Papers in Indo-European Studies</i> (ed. K. Yoshida & B. Vine) (2009) 151-161 [PDF](/files/melchertkyoto.pdf)
+100. 'Discourse Conditioned Use of Hittite <i>-ma</i>,' in <i>Form, Funktion und Diachronie. Akten der Arbeitstagung der Indogermanischen Gesellschaft vom 24. bis 26. September 2007 in Marburg</i> (edd. E. Rieken & P. Widmer) (2009) 187-195 [PDF](/files/melchertMarburg.pdf)
+101. 'Ablativ und Instrumental im Hethitischen und Indogermanischen. Ein Beitrag zur relativen Chronologie' (with Norbert Oettinger), <i>Incontri Linguistici</i> 32 (2009) 53-73 [PDF](/files/MelchertOettingerIncLing32.pdf)
+102. 'Hittite <i>hi</i>-verbs from Adverbs,' in <i>Protolanguage and Prehistory. Akten der XII. Fachtagung der Indogermanischen Gesellschaft vom 11. bis 15.10.2004 in Krakau</i> (ed. R. Lühr and S. Ziegler) (2009) 335-339 [PDF](/files/MelchertKrakow.pdf)
+103. 'The Animate Nominative Plural in Luvian and Lycian,' in <i>\*h2nr. Festschrift für Heiner Eichner</i> (ed. R. Nedoma & D. Stifter) (= <i>Die Sprache</i> 48) (2009) [2010] 112-117 [PDF](/files/melchertFSeichner.pdf)
+104. 'Lidya Dili ve Yazıtları/Lydian Language and Inscriptions,' in <i>Lidyalılar ve Dünyaları</i>/ <i>The Lydians and Their World</i> (ed. N. D. Cahill) (2010) 267-272
+105. 'Hittite <i>talliye/a-</i> ‘to draw, allure’,' in <i>Pax Hethitica. Studies on the Hittites and their Neighbors in Honour of Itamar Singer</i> (edd. Y. Cohen, A. Gilan and J. Miller) (2010) 226-232 [PDF](/files/melchertFSsinger.pdf)
+106. 'The Word for ‘mouth’ in Hittite and Proto-Indo-European,' <i>International Journal of Diachronic Linguistics</i> 7 (2010) 55-63 [PDF](/files/PIEmouth.pdf)
+107. 'Spelling of Initial /a-/ in Hieroglyphic Luwian,' in <i>ipamati kistamati pari tumatimis. Luwian and Hittite Studies presented to J. David Hawkins on the Occasion of his 70th Birthday</i> (ed. I. Singer) (2010) 147-158 [PDF](/files/MelchertFs%20Hawkins.pdf)
+108. 'Hittite <i>ḫar(ap)p-</i> and Derivatives,' in <i>Investigationes Anatolicae. Gedenkschrift für Erich Neu</i> (ed. J. Klinger, E. Rieken & C. Rüster) (2010) 179-188 [PDF](/files/Melchert%20GsNeu.pdf)
+109. 'Further Thoughts on Carian Nominal Inflection,' in <i>Hellenistic Karia. Proceedings of the First International Conference onHellenistic Karia Oxford, 29 June - 2 July 2006</i>, (edd. R. van Bremen and M. Carbon) (2010) 177-186 [PDF](/files/MelchertCarianNoun.pdf)
+110. 'Hittite <i>talliyē(šš)-</i> ‘be(come) calm, quiescent’,' in <i>Issledovanija po lingvistike i semiotike. Sbornik statej k jubileju Vyach. Vs. Ivanov</i> (ed. T. M. Nikolaev) (2010) 148-152 [PDF](/files/MelchertFSIvanov.pdf)
+111. 'On Hittite <i>mūgā(i)-</i>,' in <i>Studi di Ittitologia in onore di Alfonso Archi</i> (ed. R. Francia & G. Torri) (= <i>Orientalia</i> 79/2) (2010) 207-215 [PDF](/files/melchertFSArchi.pdf)
+112. 'The PIE Collective Plural and the “τὰ ζῷα τρέχει rule”,' in <i>Indogermanistik und Linguistik im Dialog. Akten der XIII. Fachtagung der Indogermanischen Gesellschaft vom 21. bis 27. September, 2008, in Salzburg</i> (ed. T. Krisch & T. Lindner) (2011) 395-400 [PDF](/files/Akten_Salzburg_Melchert.pdf)
+113. 'Indo-Europeans,' in <i>The Oxford Handbook of Ancient Anatolia. 10,000–323 B.C.E.</i> (ed. S. Steadman & G. McMahon) (2011) 704-716
+114. 'The PIE Verb for ‘to pour’ and Medial <i>\*h3</i> in Anatolian,' in <i>Proceedings of the 22nd UCLA Indo-European Conference</i> (ed. S. Jamison et al.) (2011) 127-132 [PDF](/files/melchertUCLA22.pdf)
+115. 'The Problem of the Ergative Case in Hittite,' in <i>Grammatical Case in the Languages of the Middle East and Europe. Acts of the International colloquium Variations, concurrence et evolution des cas dans divers domaines linguistiques Paris 2–4 April 2007</i> (ed. M Fruyt, M. Mazoyer and Dennis Pardee) (2011) 161-167 [PDF](/files/melchertergative.pdf)
+116. 'Enclitic Subject Pronouns in Hieroglyphic Luvian,' <i>Aramazd</i> 6/2 (2011) 73-86 [PDF](/files/Melchert%202011%20%28Enclitic%20Subject%20Pronouns%20in%20Hieroglyphic%20Luvian%29.pdf)
+117. 'Genitive Case and Possessive Adjective in Anatolian,' in <i>Per Roberto Gusmani. Studi in ricordo. Linguistica storica e teorica</i>, vol. II, tomo 1 (ed. V. Orioles) (2012) 273-286 [PDF](/files/melchertGSGusmani.pdf)
+118. 'Luvo-Lycian Dorsal Stops Revisited,' <i>The Sound of Indo-European 2</i> (ed. R. Sukač and O. Šefčík) (2012) 206-218 [PDF](/files/melchertSofIE2.pdf)
+119. 'Hittite “Heteroclite” <i>s-</i>Stems,' in <i>Multi Nominis Grammaticus. Studies in Classical and Indo-European linguistics in honor of Alan. J. Nussbaum on the occasion of his sixty-fifth birthday</i> (ed. A. Cooper, J. Rau, and M. Weiss) (2012) 175-184 [PDF](/files/MelchertMNG.pdf)
+120. 'Hittite <i>ḫi</i>-Verbs of the Type <i>-āC1i</i>, <i>-aC1C1anzi</i>,' <i>Indogermanische Forschungen</i> 117 (2012) 173-185 [PDF](/files/melchertIF117.pdf)
+121. 'Dative-Locative Objects of Infinitives in Anatolian,' in <i>Von Fall zu Fall – Studien zur indogermanischen Syntax</i> (= <i>Historische Sprachforschung</i> 125) (2012) [2014] 242-247
+122. 'Motivations for Hittite Mythological Texts,' <i>Writing Down the Myths: the Construction of Mythology in Classical & Medieval Traditions</i> (ed. J. Nagy) (2013) 257-264
+123. 'Luvian Language in “Luvian” Rituals in Hattusha,' <i>Beyond Hatti: A Tribute to Gary Beckman</i> (edd. B. Collins & P. Michalowski) (2013) 159-172 [PDF](/files/Melchert_FsBeckman.pdf)
+124. 'Hittite and Hieroglyphic Luvian <i>arha</i> ‘away’: Common Inheritance or Borrowing?' <i>Journal of Language Contact</i> 6 (2013) 300-312 [PDF](/files/MelchertJLC_006_02_art04.pdf)
+125. 'Ablaut Patterns in the Hittite <i>hi-</i>Conjugation,' in <i>Proceedings of the 24th UCLA Indo-European Conference</i> (ed. S. Jamison et al.) (2013) 137-150 [PDF](/files/melchertUCLA24.pdf)
+126. 'Naming Practices in Second and First Millennium Western Anatolian,' in <i>Personal Names in Ancient Anatolia</i> (ed. R. Parker) (2013) 31-49 [PDF](/files/westernanatoliannames.pdf)
+127. 'Agreement Patterns in Old and Middle Hittite,' in <i>Grammatica et verba. Glamour and verve. Studies in South Asian, historical, and Indo-European linguistics in honor of Hans Henrich Hock on the occasion of his seventy-fifth birthday</i> (ed. S. Chen and B. Slade) (2013) 165-180 [PDF](/files/melchert2013FShock_HittAgreement.pdf)
+128. 'PIE <i>\*-eh2</i> as an “individualizing” Suffix and the Feminine Gender,' in <i>Studies on the Collective and Feminine in Indo-European from a Diachronic and Typological Perspective</i> (edd. S. Neri & R. Schuhmann (2014) 257-271 [PDF](/files/melchertcollective%26feminine.pdf)
+129. 'The Hieroglyphic Luvian Verb PUGNUS.PUGNUS,' in <i>Na-wa/i-</i>VIR.<i>ZI/A</i> MAGNUS.SCRIBA. <i>Festschrift fur Helmut Nowicki zum 70. Geburtstag</i> (edd. C. Brosch & A. Payne) (2014) 133-138 [PDF](/files/melchert-FS_nowicki.pdf)
+130. 'Anatolian Stems in <i>\*-(C)o-</i>,' in <i>Nomen im Indogermanischen. Akten der Arbeitstagung der Indogermanischen Gesellschaft. Erlangen, 14.-16. September 2011</i> (ed. N. Oettinger and R. Steer) (2014) 205-214 [PDF](/files/Akten_Erlangen_Melchert.pdf)
+131. '“Narten formations” versus “Narten roots”,' <i>Indogermanische Forschungen</i> 119 (2014) 251-258 [PDF](/files/melchert2014IF119.pdf)
+132. 'Hittite <i>nakku(wa)-</i> ‘(spirits of) the dead’,' in <i>Munus amicitiae Norbert Oettinger a collegis et amicis dicatum</i> (ed. H. C. Melchert, E. Rieken & T. Steer) (2014) 219-227 [PDF](/files/melchertFSoettinger.pdf)
+133. 'Hittite <i>išpar-</i> “to spread out” and <i>išparre/a-</i> “to kick”,' in <i>Proceedings of the Eighth International Congress of Hittitology. Warsaw, 5-9 September 2011</i> (ed. P. Taracha) (2014) 499-506 [PDF](/files/melchertICH8_2014.pdf)
+134. 'Greek and Lycian' and 'Greek and Lydian,' in <i>Encyclopedia of Ancient Greek Language and Linguistics</i> (ed. G. Giannakis) (2014) 67-70 & 70-71 [PDF: Greek and Lycian](/files/Melchert%20C._greek%20and%20lycian.pdf) [PDF: Greek and Lydian](/files/Melchert%20C._greek%20and%20lydian.pdf)
+135. 'Reciprocity and Commerce in Bronze and Iron Age Anatolia,' in <i>Tradition and Innovation in the Ancient Near East: Proceedings of the 57th Rencontre Assyriologique Internationale at Rome 4–8, July 2011</i> (ed. A. Archi) (2015) 409-16 [PDF](/files/melchert2015RAI57washa-.pdf) (for complete volume go to [http://www.eisenbrauns.com/item/RAI57](http://www.eisenbrauns.com/item/RAI57))
+136. 'Alleged “Right Dislocation” in Hittite,' in <i>Saeculum: Gedenkschrift für Heinrich Otten anlässlich seines 100. Geburtstags</i> (ed. A. Müller-Karpe, E. Rieken, and W. Sommerfeld) (2015) 137-145 [PDF](/files/melchertGSotten.pdf)
+137. 'Lycian <i>alaha-</i> and <i>alada/ehali-</i>,' in <i>Genres épigraphiques et langues d’attestation fragmentaire dans l’espace méditerranéen</i> (edd. E. Dupraz and W. Sowa) (2015) 153-163 [PDF](/files/melchert2015Rouen_alaha-.pdf)
+138. 'The Tocharian <i>s-</i>Preterite,' in <i>Tocharian Texts in Context: International Conference on Tocharian Manuscripts and Silk Road Culture</i> (edd. M. Malzahn, M. Peyrot, H. Fellner and T.-S. Illés) (2015) 127-135 [PDF](/files/melchert2015Toch_s-preterite.pdf)
+139. 'Translation Strategies in the Hurro-Hittite Bilingual from Boğazköy,' in <i>Strategies of Translation: Language Contact and Poetic language</i> (edd. J. L. García Ramón & D. Kölligan) (2015) 61-75 [PDF](/files/melchert2015TranslationHurro-HittiteBilingual.pdf)
+140. 'The Case of the Agent in Anatolian and Indo-European,' in <i>Sahasram Ati Srajas: Indo-Iranian and Indo-European Studies in Honor of Stephanie W. Jamison</i> (edd. D. Gunkel, J. T. Katz, B. Vine & M. Weiss) (2016) 239-249 [PDF](/files/melchert2016FSjamisonAgentCase.pdf)
+141. 'Relative Clauses in Anatolian,' in <i>»dat ih dir it nu bi huldi gibu« Linguistische, germanistische und indogermanistische Studien Rosemarie Lühr gewidmet</i> (edd. S. Neri, R. Schuhmann & S. Zeilfelder) (2016) 287-295 [PDF](/files/melchert2016FSl%C3%BChrAnatRelClauses.pdf)
+142. 'New Luvian Verb Etymologies,' in <i>Anatolica et Indogermanica: Studia linguistica in honorem Johannis Tischler septuagenarii dedicata</i> (edd. H. Marquardt, S. Reichmuth & J. V. García Trabazo) (2016) 203-212 [PDF](/files/melchert2016FSTischlerTwoLuvianVerbEtym.pdf)
+143. 'Marginalia to the Myth of Telipinu,' in <i>Audias fabulas veteres: Anatolian Studies</i> in Honor of Jana Součková-Siegelová (ed. Š. Velhartická) (2016) 210-220 [PDF](/files/melchert2016FSsiegelov%C3%A1_TelipinuMyth.pdf)
+144. 'Hittite <i>kī (kuit)</i> and Vedic “<i>sá-figé</i>”,' in<i>Tavet Tat Satyam: Studies in Honor of Jared S. Klein on the Occasion of His Seventieth Birthday</i> (edd. A. M. Byrd, J. DeLisi & M. Wenthe) (2016) 204-213 [PDF](/files/melchert2016FSklein%20ki%20kuit.pdf)
+145. 'Formal and Semantic Aspects of Hittite <i>gul(aš)ša-</i> ‘fate’,' in <i>Ahmet Ünal’a Armağan Studies in Honour of Ahmet Ünal</i> (edd. S. Erkut & Ö. Sir Gavaz) (2016) 355-359 [PDF](/files/melchert2016FS%C3%BCnal%20gulssa-.pdf)
+146. 'Initial <i>\*sp-</i> in Hittite and <i>šip(p)and-</i> ‘to libate’,' <i>Journal of Language Relationship/ Вопросы языкового родства</i> 14/3 (2016) 187-196 [PDF](/files/melchert2016JRL14%20ispand-%26sipand-.pdf)
+147. '“Western Affinities” of Anatolian,' in <i>Etymology and the European Lexicon: Proceedings of the 14th Fachtagung der Indogermanischen Gesellschaft, 17–22 September 2012, Copenhagen</i> (edd. B. S. S. Hansen et al.) (2016) 297-305 [PDF](/files/melchert2016westernaffinities.pdf)
+148. 'Anatolian,' Chapter 3 in <i>The Indo-European Languages</i>, Second Edition (ed. M. Kapović) (2017) 171-201
+149. 'Syntax of the Hittite “Supine” Construction,' (with Harry A. Hoffner Jr.†), in <i>5èmes Rencontres de l’IFEA. L’hittitologie aujourd’hui. Études sur l’Anatolie hittite et néo-hittite à l’occasion du centenaire de la naissance d’Emmanuel Laroche Istanbul, 21-22 Nov. 2014</i> (ed. A. Mouton) (2017) 3-6 [PDF](/files/hoffner-melchert2017GSlaroche%20supine%20auxiliaries.pdf)
+150. 'Mediopassives in <i>\*-sḱe/o-</i> to Active Intransitives,' in <i>Miscellanea Indogermanica: Festschrift für José Luis García Ramón zum 65. Geburtstag</i> (edd. I. Hajnal, D. Kölligan & K. Zipser) (2017) 477-486 [PDF](/files/melchert2017FSgarcia%CC%81%20ramo%CC%81n.pdf)
+151. 'An Allative Case in Proto-Indo-European?' in Usque ad Radices: <i>Indo-European studies in honour of Birgit Anette Olsen</i> (edd. B. S. Sandgaard Hansen <i>et al.</i>) (2017) 527-539 [PDF](/files/melchert2017FSolsen%20allative.pdf)
+152. 'The Source(s) of Indo-European Participles in <i>\*-e/ont-</i>,' in <i>Adjectifs verbaux et participes dans les langues indo-européennes</i> (ed. C. Le Feuvre, D. Petit, and G.-J. Pinault) (2017) 203-206 [PDF](/files/melchert2017nt-participles.pdf)
+153. 'Hittite and Indo-European: Revolution and Counterrevolution,' in <i>100 Jahre Entzifferung des Hethitischen - Morphosyntaktische Kategorien in Sprachgeschichte und Forschung: Arbeitstagung der lndogermanischen Gesellschaft vom 21. bis 23. September 2015 in Marburg</i> (ed. E. Rieken) (2018) 289-293 [PDF](/files/melchert2018AktenMarburg2015.pdf)
+154. 'Hittite <i>tit(ta)nu-</i>, <i>titti-</i>, and Lycian <i>stta-</i>,' <i>Chatreššar</i> 1 (2018) [PDF](/files/melchert2018Chatre%C5%A1%C5%A1ar1%20tittanu-.pdf)
+155. 'Semantics and Etymology of Hittit <i>takš-</i>,' in <i>Indo-Iranian and Indo-European Studies in Honor of Sasha Lubotsky</i> (2018) 209-216 [PDF](/files/melchert2018FSlubotsky%20tak%C5%A1-.pdf)
+156. 'Empire Luvian \*416<i>-wa/i-ní</i> and Related Problems,' in <i>Vina Diem Celebrent: Studies in Linguistics and Philology in Honor of Brent Vine</i> (edd. D. Dunkel et al.) (2018) 231-241
+157. 'Iron Age Luvian <i>tarrawann(i)-</i>,' in <i>Over the Mountains and Far Away: Studies in Near Eastern history and archaeology presented to Mirjo Salvini on the occasion of his 80th birthday</i> (edd. P. S. Avetisyan, R. Dan & Y. H. Grekyan (2019) 337-345 [PDF](/files/melchert2019FSsalvini%20tarrawanni.pdf)
+158. 'The Anatolian Hieroglyphic Signs L 41, L 172 and L 319 = L 416,' in <i>“And I Knew Twelve Languages”: A Tribute to Massimo Poetto on the Occasion of His 70th Birthday</i> (edd. N. Bolatti Guzzo & P. Taracha) (2019) 356-377 [PDF](/files/melchert2019FSpoettoHieroglyphicSigns.pdf)
+159. 'Solar and Sky Deities in Anatolian,' in <i>QAZZU warrai: Anatolian and Indo-European Studies in Honor of Kazuhiko Yoshida</i> (edd. A. A. Catt, R. I. Kim & Brent Vine) (2019) 239-249 [PDF](/files/melchert2019FSyoshidaSolar%26SkyDeities.pdf)
+160. 'Hittite and Luvian <i>uppa-</i> and Hittite <i>uiya-</i>,' in <i>IX. Uluslararası Hititoloji Kongresi Bildirileri Çorum 08-14 Eylül 2014 Acts of the IXth International Congress of Hittitology Çorum, September 08-14, 2014</i> (ed. A. Süel) (2019) 567-578 [PDF](/files/melchert2019ICH9uppa-%26uiya-.pdf)
+161. 'Hittite Historical Phonology after 100 Years (and after 20 years),' in <i>Hrozný and Hittite: The First Hundred Years. Proceedings of the International Conference Held at Charles University, Prague, 11–14 November 2015</i> (edd. R. I. Kim, J. Mynářová & P. Pavúk) (2020) 258-276 [PDF](/files/melchert2020Hrozny%26Hittite%20Phonology.pdf)
+162. 'Hittite <i>ḫandā(i)-</i> ‘to Align, Arrange, etc.’ and PIE Metaphors for ‘(morally) right’,' in <i>Dispersals and Diversification: Linguistic and Archaeological Perspectives on the Early Stages of Indo-European</i> (edd. Thomas Olander and Matilde Serangeli) (2020) 166-178 [PDF](/files/melchert2020Dispersals%20Hitt.%20handai-ETC.pdf)
+163. 'Hittite <i>tarru-</i> ‘firm, secure’ and Luvian Cognates,' in <i>Ὀνομάτων ἵστωρ: Mélanges offerts à Charles de Lamberterie</i> (edd. C. Le Feuvre and D. Petit) (2020) 541-553 [PDF](/files/melchert2020FSdelamberterie%20tarru-.pdf)
+164. 'Luwian,' in <i>A Companion to Ancient Near Eastern Languages</i> (ed. R. Hasselbach-Andee) (2020) 239-256
+
+### Forthcoming
+
+- 'The Role of Indo-European Studies in the XXIst Century,' in <i>Oxford Handbook of Diachronic and Historical Linguistics</i> (ed. P. Crisma and G. Longobardi) (to appear)
+- 'Lengthened Grades of PIE <i>\*CaC</i> Roots,' in <i>Zurück zur Wurzel – Struktur, Funktion und Semantik der Wurzel im Indogermanischen: 15. Fachtagung der Indogermanischen Gesellschaft, Wien, September 16, 2016</i> (ed. Melanie Malzahn et al.) (to appear)
+- 'The Medio-Passive in Transition from Old to New Hittite,' (to appear in a forthcoming Festschrift)
+- 'The Etymology of Hieroglyphic Luvian <i>tina(n)t(a)-</i> ‘tithe’,' (to appear in a forthcoming Festschrift)
+- 'Lycian Relative Clauses,' in <i>Current Research on Lycian: International Workshop of the Digital Philological-Etymological Dictionary of the Minor Ancient Anatolian Corpus Languages, Ludwig-Maximilians-Universität München 16-17 February 2017</i> (ed. Z. Simon) (to appear)
+- 'Bilingual Texts in First-Millennium Anatolia,' in <i>Beyond All Boundaries: Anatolia in the 1st Millennium B.C.</i> (edd. Annick Payne and Jorit Wintjes)
+- 'Hittite Neuter <i>i-</i>Stems,' (to appear in a forthcoming Festschrift)
+- 'Luvo-Hittite <i>latti-</i>,' (to appear in a forthcoming Festschrift)
+- 'The Position of Anatolian,' in <i>Handbook of Indo-European Studies</i> (edd. A. Garrett & M. Weiss) (to appear)
+
+## Reviews
+
+- S. Heinhold-Krahmer et al., <i>Probleme der Textdatierung in der Hethitologie</i>, in <i>Journal of the American Oriental Society</i> 102 (1982) 176-177 [PDF](/files/reviewtextdatierung.pdf)
+- J. Weitenberg, <i>Die hethitischen u-Stämme</i>, in <i>Kratylos</i> 29 (1984) [1985] 79-82 [PDF](/files/reviewweitenberg1984.pdf)
+- J. Puhvel, <i>Hittite Etymological Dictionary Vol. 1 & 2,</i> in <i>Journal of the American Oriental Society</i> 106 (1986) 568-569 [PDF](/files/reviewpuhvelHED1-2.pdf)
+- H. Hoffner & G. Beckman (edd.), <i>Kaniššuwar. A Tribute to Hans G. Güterbock on his Seventy-Fifth Birthday</i>, in <i>Journal of Near Eastern Studies</i> 47 (1988) 215-216 [PDF](/files/reviewkanissuwar.pdf)
+- B. Comrie (ed.), <i>The World's Major Languages</i>, in <i>The South Atlantic Review</i> 33 (1988) 139-140 [PDF](/files/reviewcomrie1987.pdf)
+- D. Yoshida, <i>Die Syntax des althethitischen substantivischen Genetivs</i>, in <i>Kratylos</i> 34 (1989) 181-182 [PDF](/files/reviewyoshidagenitiv.pdf)
+- C. Zinko, <i>Betrachtungen zum</i> AN.TAH.ŠUM<i>-Fest</i>, in <i>Kratylos</i> 34 (1989) 184 [PDF](/files/reviewzinkoAN.TAH.%C5%A0UM.pdf)
+- J. Friedrich & A. Kammenhuber, <i>Hethitisches Wörterbuch2</i>, Bd. II: E, in <i>Kratylos</i> 35 (1990) 107-109 [PDF](/files/reviewhw2.pdf)
+- H. Otten, <i>Die Bronzetafel aus Bogazköy</i>, in <i>Kratylos</i> 35 (1990) 204-206 [PDF](/files/reviewottenbronzetafel.pdf)
+- C. Rüster & E. Neu, <i>Hethisches Zeichenlexikon</i>, in <i>Kratylos</i> 36 (1991) 122-126 [PDF](/files/reviewHZL.pdf)
+- F. Starke, <i>Untersuchung zur Stammbildung des keilschrift-luwischen Nomens</i>, in <i>Historische Sprachforschung</i> 105 (1992) 309-312 [PDF](/files/reviewstarkeStBoT31.pdf)
+- G. McMahon, <i>The Hittite State Cult of the Tutelary Deities</i>, in <i>Journal of Near Eastern Studies</i> 54 (1995) 158-159 [PDF](/files/reviewmcmahon1991.pdf)
+- A. Kammenhuber, <i>Kleine Schriften zum Altanatolischen und Indogermanischen,</i> in <i>Bibliotheca Orientalis</i> 52.5/6 (1995) 735-737 [PDF](/files/reviewkammenhuberKlSchr.pdf)
+- H. G. Güterbock & Theo van den Hout, <i>The Hittite Instruction for the Royal Bodyguard</i>, in <i>Journal of Near Eastern Studies</i> 55 (1996) 134-135 [PDF](/files/reviewbodyguard.pdf)
+- H. G. Güterbock & H. Hoffner, <i>The Hittite Dictionary of the University of Chicago</i>, Volume P, fascicle 1, in <i>Journal of the American Oriental Society</i> 116 (1996) 777-778 [PDF](/files/reviewCHDP1.pdf)
+- J. Jie, <i>A Complete Retrograde Glossary of the Hittite Language</i>, in <i>Journal of the American Oriental Society</i> 117 (1997) 163 [PDF](/files/reviewjinjie.pdf)
+- J. David Hawkins, <i>The Hieroglyphic Inscription of the Sacred Pool Complex at Hattusa</i> (SÜDBURG), in <i>Bulletin of the School of Oriental and African Studies</i> 60 (1997) 347 [PDF](/files/reviewhawkinss%C3%BCdberg.pdf)
+- F. Adrados, <i>Laryngale mit Appendix?</i>, in <i>Kratylos</i> 42 (1997) 170-171 [PDF](/files/reviewadrados.pdf)
+- M. Giannotta et al. (edd.), <i>La decifrazione del cario,</i> in <i>Kratylos</i> 42 (1997) 185-186 [PDF](/files/reviewdecifrazionecario.pdf)
+- H. G. Güterbock & H. Hoffner, <i>The Hittite Dictionary of the University of Chicago,</i> Volume P, fascicle 2, in <i>Journal of the American Oriental Society</i> 117 (1997) 713-714 [PDF](/files/reviewCHDP2.pdf)
+- T. Gamkrelidze & V. Ivanov, <i>Indo-European and the Indo-Europeans. A Reconstruction and Historical Analysis of a Proto-Language and a Proto-Culture</i>, in <i>Journal of the American Oriental Society</i> 117 (1997) 741-742 [PDF](/files/reviewgamkrelidze-ivanovenglishpdf.pdf)
+- L. Jakob-Rost, <i>Keilschrifttexte aus Boghazköy im Vorderasiatischen Museum</i>, in <i>Journal of the American Oriental Society</i> 119 (1999) 521-522 [PDF](/files/reviewjakob-rost1997.pdf)
+- O. Hackstein, <i>Untersuchungen zu den sigmatischen Präsensstammbildungen des Tocharischen</i>, in <i>Tocharian and Indo-European Studies</i> 9 (2000) 145-147 [PDF](/files/reviewhackstein1995.pdf)
+- F. A. Tjerkstra, <i>Principles of the Relation between Local Adverb, Verb and Sentence Particle in Hittite,</i> in <i>Bibliotheca Orientalis</i> 58.1/2 (2001) 215-218 [PDF](/files/reviewtjerkstra.pdf)
+- E. Rieken, <i>Untersuchungen zur nominalen Stammbildung des Hethitischen</i>, in <i>Journal of the American Oriental Society</i> 121 (2001) 488-489 [PDF](/files/reviewriekenStBoT44.pdf)
+- A. Keen, Dynastic Lycia. <i>A Political History of the Lycians and Their Relations with Foreign Powers, c. 545-362 B.C.</i>, in <i>Journal of Near Eastern Studies</i> 61/2 (2002) 158 [PDF](/files/reviewkeen.pdf)
+- G. Carling, <i>Die Funktionen der lokalen Kasus im Tocharischen</i>, in <i>Journal of the American Oriental Society</i> 122 (2002) 107-108 [PDF](/files/reviewcarling2000.pdf)
+- M. Ofitsch and C. Zinko (eds.), <i>125 Jahre Indogermanistik Graz</i>, in <i>Journal of the American Oriental Society</i> 122 (2002) 652 [PDF](/files/reviewindogermanistikgraz.pdf)
+- J. Puhvel, <i>Epilecta Indoeuropaea,</i> in <i>Indo-European Studies Bulletin, UCLA</i> 10/2 (2003) 35-36 [PDF](/files/reviewpuhvelepilecta.pdf)
+- R. Francia, <i>Le funzioni sintattiche degli elementi avverbiali di luogo ittiti</i> anda(n), appa(n), katta(n), katti-, peran, parā, šer, šarā, in <i>Journal of the American Oriental Society</i> 123 (2003) 891-892 [PDF](/files/reviewfrancia2002.pdf)
+- J. Tischler, <i>Hethitisches Handwörterbuch</i>, in <i>Kratylos</i> 49 (2004) 195-196 [PDF](/files/reviewtischlerHHWb.pdf)
+- A. Payne, <i>Hieroglyphic Luwian</i>, in <i>Journal of the American Oriental Society</i> 125 (2005) 535-536 [PDF](/files/reviewpayne.pdf)
+- M. Popko, <i>Völker und Sprachen Altanatoliens</i>, in <i>Journal of the American Oriental Society</i> 128 (2008) 763-764 [PDF](/files/reviewpopko2008.pdf)
+- H. Ehringhaus, <i>Götter, Herrscher, Inschriften. Die Felsreliefs der hethitischen Großreichszeit in der Türkei</i>, in <i>Journal of Near Eastern Studies</i> 68 (2009) 147-148 [PDF](/files/reviewehringhaus.pdf)
+- M. Hale, <i>Historical Linguistics. Theory and Method</i>, in <i>Language</i> 85/1 (2009) 203-206 [PDF](/files/reviewhale.pdf)
+- G. Neumann, <i>Glossar des Lykischen</i>, in <i>Kratylos</i> 54 (2009) 127-130 [PDF](/files/reviewneumannlykglossar.pdf)
+- S. Patri, <i>L’alignment syntaxique dans les langues indo-européennes d’Anatolie</i>, in <i>Kratylos</i> 54 (2009) 130-132 [PDF](/files/reviewpatri2007.pdf)
+- J. Puhvel, <i>Ultima Indoeuropaea</i>, in <i>Bibliotheca Orientalis</i> 70 (2013) 760-762 [PDF](/files/reviewpuhvelultimaindoeuropaea.pdf)
+- B. Christiansen, <i>Schicksalsbestimmende Kommunikation: Sprachliche, gesellschaftliche und religiöse Aspekte hethitischer Fluch-, Segens- und Eidesformeln</i>, in <i>Kratylos</i> 59 (2014) 244-245 [PDF](/files/reviewchristiansenStBoT53.pdf)
+- G. Wilhelm (ed.), <i>Ḫattuša-Boğazköy: Das Hethiterreich im Spannungsfeld des Alten Orients. 6. Internationales Colloquium der Deutschen Orient-Gesellschaft 22.–24. März 2006, Würzburg</i>, in <i>Kratylos</i> 59 (2014) 242-243
+- A. Payne and J. Wintjes, <i>Lords of Asia Minor: An Introduction to the Lydians</i>, in <i>Bryn Mawr Classical Review</i> 2017.03.30 ([http://bmcr.brynmawr.edu/2017/2017-03-30.html](http://bmcr.brynmawr.edu/2017/2017-03-30.html))
+- M. Maier, <i>Hethitisch ºwant- und Verwan(d)tes</i>, in <i>Journal of the American Oriental Society</i> 137 (2017) 178-180 [PDF](/files/melchert2017JAOS121review_maier.pdf)
+- A. Payne, <i>Schrift und Schriftlichkeit. Die anatolische Hieroglyphenschrift</i>, in <i>Journal of the American Oriental Society</i> 138 (2018) 591-593 [PDF](/files/melchert2018JAOS138reviewPayneS%26S.pdf)
+- A. Kloekhorst, <i>Accent in Hittite: A Study in Plene Spelling, Consonant Gradation, Clitics, and Metrics</i>, in <i>Journal of the American Oriental Society</i> 138 (2018) 593-595 [PDF](/files/melchert2018JAOS138reviewKloekhorst2014.pdf)
+
+## Electronic Publications
+
+- 'The Trilingual Inscription of the Létôon. Lycian Version,' posted December, 2000, archived at (5 pp.); revised version posted December, 2018: [http://www.achemenet.com/dotAsset/6fb8153b-1573-49f5-bb61-ef87a2d71c72.pdf](http://www.achemenet.com/dotAsset/6fb8153b-1573-49f5-bb61-ef87a2d71c72.pdf) (8 pp.)
+- 'Anatolian Languages' (with Theo van den Hout and Philo H. J. Houwink ten Cate); 'Carian Language; Luwian Language; Lycian Language; Lydian Language; Palaic Language' <i>Encyclopaedia Britannica</i>, posted January, 2008 at [www.britannica.com/eb/article-74591/Anatolian-languages](http://www.britannica.com/eb/article-74591/Anatolian-languages) (18 pp.)
+- 'Local Adverbs In Hittite: Synchrony and Diachrony', <i>Language and Linguistic Compass</i> 3/2 (2009) 607-620 [PDF](/files/melchertlocaladverbs.pdf)
+- 'Remarks on the Kuttamuwa Stele,' <i>Kubaba</i> 1 (2010) 4-11 posted July, 2010 at [www.fcsh.unl.pt/~kubaba/KUBABA/](http://www.fcsh.unl.pt/~kubaba/KUBABA/Melchert_2010__Remarks_on_the_Kuttamuwa_Stele.pdf) [Melchert\_2010\_\_Remarks\_on\_the\_Kuttamuwa\_Stele.pdf](http://www.fcsh.unl.pt/~kubaba/KUBABA/Melchert_2010__Remarks_on_the_Kuttamuwa_Stele.pdf)
+- 'Hittite and Hieroglyphic Luvian <i>arha</i> ‘away’: Common Inheritance or Borrowing?' <i>Contact Among Genetically Related Languages</i>, ed. P. Epps, J. Huehnergard, N. Pat-El (= <i>Journal of Language Contact</i> 6.2) (2013) 300-312 [PDF](/files/MelchertJLC_006_02_art04.pdf)
+- 'Mycenaean and Hittite Diplomatic Correspondence: Fact and Fiction,' <i>Classical Inquiries: Studies on the Ancient World from the Center for Hellenic Studies</i> (2020) [https://classical-inquiries.chs.harvard.edu/mycenaean-and-hittite-diplomatic-correspondence-fact-and-fiction/](https://classical-inquiries.chs.harvard.edu/mycenaean-and-hittite-diplomatic-correspondence-fact-and-fiction/)
+
+## Necrologies
+
+- In memoriam Annelies Kammenhuber. <i>Kratylos</i> 43 (1998) 222-224 [PDF](/files/inmemoriamkammenhuber.pdf)
+- Hans Gustav Güterbock. <i>Oriental Institute 1999-2000 Annual Report</i> (2000) 5-7 [PDF](/files/inmemoriamGuterbock.pdf)
+- Erich Neu (1936-1999). <i>Indo-European Studies Bulletin</i>, UCLA 9/2 (2001) 20 [PDF](/files/erichneu.pdf)
+- In memoriam Alexandr Lehrman. <i>Journal of Indo-European Studies</i> 41.1/2 (2013) 311-317 (with Ilya Yakubovich) [PDF](/files/inmemoriamalexandrlehrman.pdf)
+- In memoriam Calvert Watkins. <i>Journal of Indo-European Studies</i> 41.3/4 (2013) 506-526 [PDF](/files/inmemoriamcalvertwatkins.pdf)
+
+## Other
+
+- 'Critical Response to the Last Four Papers,' in <i>Greater Anatolia and the Indo-Hittite Language Family. Papers Presented at a Colloquium Hosted by the University of Richmond, March 18-19, 2000</i> (ed. Robert Drews) (2001) 229-235

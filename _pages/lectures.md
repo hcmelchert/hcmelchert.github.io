@@ -1,0 +1,181 @@
+---
+layout: single
+title: "Lectures"
+permalink: /lectures/
+author_profile: true
+---
+
+## Lectures Presented at Professional Conferences
+
+- 'Hittite uwaš and Relatives,' Second East Coast Indo-European Conference, Harvard University, Cambridge, MA, June 1, 1983
+- 'Collective and Individual Plural in Hittite,' Third East Coast Indo-European Conference, University of Pennsylvania, Philadelphia, PA, June 1, 1984
+- 'PIE Velars in Luvian,' Fourth East Coast Indo-European Conference, Cornell University, Ithaca, NY, June 7, 1985
+- 'Reflexes of PIE Laryngeals in Anatolian,' Fifth East Coast Indo-European Conference, Princeton University, Princeton, NJ, June 13, 1986
+- 'The Vowel System of Lycian and Common Anatolian,' Sixth East Coast Indo-European Conference, Yale University, New Haven, CN, June 3, 1987
+- 'Relative Chronology and Anatolian,' (invited lecture) VIII. Fachtagung der indogermanischen Gesellschaft, Leiden, The Netherlands, September 4, 1987
+- 'Luvo-Hittite Vocalism and Anatolian Chronologies,' Seventh East Coast Indo-European Conference, UNC-Chapel Hill, NC, May 11, 1988
+- 'The Middle Voice in Lycian,' Eighth East Coast Indo-European Conference, Harvard University, Cambridge, MA, June 10, 1989
+- 'A New Interpretation of Lines c 3-9 of the Xanthos Stele,' 2. Internationales Lykien-Symposion, Vienna, Austria, May 7, 1990
+- 'Third Person Present in Lydian,' Ninth East Coast Indo-European Conference, University of Pennsylvania, Philadelphia, PA, May, 1990
+- 'The So-called "Historical Present" in Hittite,' (invited lecture) UCLA IE Conference, UCLA, Los Angeles, CA, May 24, 1991
+- 'Luvo-Lycian Verbs in <i>-īti, -ainti/-idi, -eiti</i>,' Tenth East Coast Indo-European Conference, Somerville College, Oxford, July 5, 1991
+- 'A New Anatolian "Law of Finals",' Eleventh East Coast Indo-European Conference, University of Georgia, Athens, GA, June 5, 1992
+- 'The Feminine Gender in Anatolian,' (invited lecture) IX. Fachtagung der indogermanischen Gesellschaft, Zürich, Switzerland,October 6, 1992
+- '"Cop's Law" in Common Anatolian,' Holger Pedersen Kolloquium, Copenhagen, Denmark, March 28, 1993
+- 'Hittite Verbs in -<i>anna/i-</i>,' Twelfth East Coast Indo-European Conference, Cornell University, Ithaca, NY, June 9, 1993
+- 'Nominal Inflection in Neo-Hittite,' Second International Hittite Congress, Pavia, Italy, July 2, 1993
+- 'Tocharian and Anatolian Plurals in <i>-nta</i>,' Thirteenth East Coast Indo-European Conference, University of Texas, Austin, TX, May 29, 1994
+- 'Anatolian,' Third Workshop on Comparative Linguistics (Subgrouping), Purdue University, W. Lafayette, IN, Nov. 13, 1994
+- 'Contributions of Hieroglyphic Luvian to Indo-European Studies,' Il geroglifico anatolico, Istituto Universitario Orientale di Napoli, Naples, Italy, June 5, 1995
+- 'Two Problems of Anatolian Nominal Derivation,' Fourteenth East Coast Indo-European Conference, Harvard University, Cambridge, MA, July 2, 1995
+- 'Hittite <i>arku-</i> "sing" vs. <i>arkuwāi-</i> "make a plea",' Fifteenth East Coast Indo-European Conference, Yale University, New Haven, CT, June 13, 1996
+- 'Aspects of Verbal Aspect in Hittite,' Third International Congress of Hittitology, Çorum, Turkey, September 21, 1996
+- 'Hittite <i>hutanu</i>-: moat or building excavation?' American Society of Oriental Research Annual Meeting, New Orleans, LA, November 24, 1996
+- 'Tarhuntassa in the Südburg Hieroglyphic Inscription,' American Oriental Society Annual Meeting, Miami, FL, March 23, 1997
+- 'Remarks on the Temporal/Aspectual Value of the Hittite Serial Verb Construction,' Sixteenth East Coast Indo-European Conference, University of Pennsylvania, Philadelphia, PA, June 12, 1997
+- 'Carian <i>mdoΩun</i> "we have established",' Tagung über die karisch-griechische Bilingue aus Kaunos, Feusisberg, Switzerland, November 1, 1997
+- 'The Dialectal Position of Anatolian within Indo-European,' (invited lecture) Berkeley Linguistics Society 24 Special Session, Berkeley, CA, February 14, 1998
+- 'Traces of PIE Aspect in Anatolian?,' Seventh Spring Workshop on Theory and Method in Linguistic Reconstruction, University of Pittsburgh, Pittsburgh, PA, March 28, 1998
+- 'Hittite <i>tuk(kan)zi-</i> "cultivation, breeding",' 204th Meeting of the American Oriental Society, New Orleans, LA, April 5, 1998
+- 'A Tangled Web We Weave,' Seventeenth East Coast Indo-European Conference, University of North Carolina, Chapel Hill NC, May 31, 1998
+- 'Hittite Nominal Stems in <i>-il</i>,' Kolloquium Anatolisch-Indogermanisch, Pavia, Italy, September 24, 1998
+- 'Hittite <i>damnaššara-</i> "domestic",' 205th Meeting of the American Oriental Society, Baltimore MD, March 21, 1999
+- 'Hieroglyphic Luvian REL<i>-ipa</i> "indeed, certainly",' Eighteenth East Coast Indo-European Conference, University of Texas, Austin TX, May 30, 1999
+- 'A Hittite Fertility Rite?' IV. Internationaler Kongress für Hethitologie, Würzburg, Germany, October 6, 1999
+- 'The Dialectal Position of Lycian and Lydian within Anatolian,' Convegno Internazionale "Licia e Lidia prima dell'Ellenizzazione", Rome, Italy, October 12, 1999
+- 'Critical Response to Papers by Finkelberg, Ivanov, Lehrman, and Darden,' Colloquium Greater Anatolia and the Indo-Hittite Language Family, Richmond, VA, March 19, 2000
+- 'The Feminine Gender in Anatolian Revisited,' Nineteenth East Coast Indo-European Conference, University of Georgia, Athens GA, June 4, 2000
+- 'The Problem of Luvian Influence on Hittite: When and How Much?' XI. Fachtagung der indogermanischen Gesellschaft, Halle, Germany, September 22, 2000
+- 'The Inflection of Some Irregular Luvian Neuter Nouns,' Twentieth East Coast Indo-European Conference, Cornell University, Ithaca NY, June 2, 2001
+- 'Hittite Nominal Stems in <i>-anzan-</i>,' Arbeitstagung "Indogermanisches Nomen", Universität Freiburg, Freiburg, Germany, September 21, 2001
+- '"Topicalization" and "Focus" in Hittite,' Journées de typologie "Accentuation syntaxique et thématisation", Paris, France, June 27, 2002
+- 'PIE "thorn" in Cuneiform Luvian?', 14th Annual UCLA Indo-European Conference, UCLA, Los Angeles CA, November 9, 2002
+- 'Latin <i>īnsolēscō</i>, Hittite <i>šulle(šš)-</i>, and PIE Statives in <i>-ē-</i>,' Colloquia Classica et Indogermanica VII in memoriam I. M. Tronsky, Institute of Linguistic Research, Russian Academy of Sciences, St. Petersburg, Russia, June 16, 2003
+- 'Indo-European Verbal Art in Luvian,' Colloque "Langue poétique indo-européenne", École Pratique des Hautes Études, Paris, France, October 22, 2003
+- 'Genitive and Possessive Adjective in Anatolian', Twenty-third East Coast Indo-European Conference. Virginia Polytechnic University, Blacksburg, VA, May 26, 2004
+- 'Greek <i>mólybdos</i> as a Loanword from Lydian,' Hittites, Greeks and Their Neighbors in Ancient Anatolia, Emory University, Atlanta GA, September 18, 2004
+- 'Hittite <i>hi-</i>verbs from Adverbs,' XII. Fachtagung der indogermanischen Gesellschaft, Kraków, Poland, October 11, 2004
+- 'Problems in Hittite Pronominal Inflection,' Conference on Indo-European Languages and Linguistics (Twenty-Fourth East Coast Indo-European Conference), University of California, Berkeley, CA, June 2, 2005
+- 'Middle Hittite Revisited,' Sixth International Congress of Hittitology, Università degli Studi di Roma "La Sapienza", Rome, Italy, September 5, 2005
+- 'Mycenaean and Hittite Diplomatic Correspondence: Fact and Fiction,' Mycenaeans and Anatolians in the Late Bronze Age: The Ahhijawa Question, Concordia University, Montreal, Canada, January 4, 2006
+- 'On the Phonetics of the PIE "laryngeals",' Eleventh Spring Workshop on Theory and Method in Linguistic Reconstruction, University of Michigan, Ann Arbor MI, April 8, 2006
+- 'Hittite <i>duwān (parā)</i>,' Twenty-Fifth East Coast Indo-European Conference, Ohio State University, Columbus, OH, June 21, 2006
+- 'Further Thoughts on Carian Nominal Inflection,' The First International Conference on Hellenistic Karia, Oxford, UK, June 30, 2006
+- 'New Light on Hittite Verse and Meter?,' 18th Annual UCLA Indo-European Conference, UCLA, Los Angeles CA, November 3, 2006
+- 'The Problem of the Ergative Case in Hittite,' Colloque international <i>Variations, concurrence et evolution des cas dans divers domains linguistiques</i>, Paris, France, April 3, 2007
+- 'Luvian Evidence for PIE <i>\*h3eit</i>- ‘take along; fetch,' Twenty-Sixth East Coast Indo-European Conference, Yale University, New Haven, CT, June 17, 2007
+- 'Discourse Conditioned Use of Hittite <i>–ma</i>,' Arbeitstagung 'Pragmatische Kategorien', Universität Marburg, Marburg, Germany, September 25, 2007
+- 'On Hittite <i>mūgā(i)-</i>,' Twenty-Seventh East Coast Indo-European Conference, University of Georgia, Athens, GA, June 21, 2008
+- 'The PIE Collective Plural and the “τὰ ζῷα τρέχει rule”,' XIII. Fachtagung der Indogermanischen Gesellschaft, Salzburg, Austria, September 26, 2008
+- '“Clitic Doubling” in Hurro-Hittite Translation Literature,' 219th Meeting of the American Oriental Society, Albuquerque NM, March 15, 2009
+- 'Motivations for Hittite Mythological Texts,' Writing Down the Myths: The Construction of Mythology in Classical & Medieval Traditions, UCLA, Los Angeles CA, April 17, 2009
+- 'Neuter <i>n-</i>Stems in Anatolian,' Twenty-Eighth East Coast Indo-European Conference, University of Iceland, Reykjavík, Iceland, June 12, 2009
+- 'The Kuttamuwa Stele in Perspective' (participant in panel discussion), Annual Meeting of the Society of Biblical Literature, New Orleans LA, November 21, 2009
+- 'History of the “LITUUS” in the Anatolian Hieroglyphs,' 220th Meeting of the American Oriental Society, St. Louis MO, March 12, 2010
+- 'The Verbal Prefix “<i>u-</i>” and &lt;u&gt; vs. &lt;ú&gt; Spellings in Anatolian Cuneiform,' Twenty-Ninth East Coast Indo-European Conference, Cornell University, Ithaca NY, June 21, 2010
+- 'PIE <i>\*-eh2</i> as an “individualizing” Suffix and the Feminine Gender,' 4. Jenaer Indogermanistisches Kolloquium. Kollektivum und Femininum: Flexion oder Wortbildung?, Universität Jena, Jena, Germany, July 28, 2010
+- 'The PIE Verb for ‘to pour’ and Medial <i>\*h3</i> in Anatolian,' 22nd Annual UCLA Indo-European Conference, UCLA, Lost Angeles CA November 6, 2011
+- 'Luvo-Lycian Dorsal Stops Revisited,' The Sound of Indo-European 2. Phonetics, phonemics, and morphophonemics, Silesian University in Opava, Opava, Czech Republic, November 18, 2010
+- 'Translation Strategies in the Hurro-Hittite Bilingual from Boğazköy,' Workshop Strategies of Translation: language contact and poetic language, Universität Köln, Köln, Germany, December 18, 2010
+- '“Wackernagel’s Law” and WH-movement in Proto-Indo-European,' Invited Symposium on Historical Linguistics, Annual Meeting of the Linguistic Society of America, Pittsburgh PA, January 8, 2011
+- 'Marginalia to the Myth of Telipinu,' 221st Meeting of the American Oriental Society, Chicago IL, March 13, 2011
+- 'Hittite Auslautsgesetze Revisited,' Thirtieth East Coast Indo-European Conference, Harvard University, Cambridge MA, June 8, 2011
+- 'Reciprocity and Commerce in Bronze and Iron Age Anatolia,' 57eRencontre Assyriologique Internationale, Università di Roma “Sapienza”, Rome, Italy, July 7, 2011
+- 'Naming Practices in 2nd and 1st Millennium Western Anatolia,' Anatolian Society: Greek and Indigenous Names in Anatolia, Wadham College, University of Oxford, Oxford, UK, July 11, 2011
+- 'Hittite <i>išpar-</i> ‘to spread out’ and <i>išparre/a-</i> ‘to kick’,' Eighth International Congress of Hittitology, University of Warsaw, Warsaw, Poland, September 5, 2011
+- 'Anatolian Stems in <i>\*-(C)o-</i>,' Das Nomen im Indogermanischen, Arbeitstagung der Indogermanischen Gesellschaft, Universität Erlangen-Nürnberg, Erlangen, Germany, September 15, 2011
+- 'Luvian Language in “Luvian” Rituals from Hattusha,' 222nd Meeting of the American Oriental Society, Boston MA, March 16, 2012
+- 'The Function of the PIE Perfect,' Workshop Strukturen im Wandel, Universität Köln, Köln, Germany, March 21, 2012
+- 'Lycian and Greek Linguistic Contact: a Two-way Street,' The Aegean-Anatolian Interface: Evidence and Implications, The Institute for the Study of the Ancient World, New York University, New York NY, April 13, 2012
+- 'Hittite and Hieroglyphic Luvian <i>arha</i> ‘away’,' International Symposium: Contact among Genetically Related Languages, University of Texas at Austin, Austin TX, April 21, 2012
+- 'Lycian <i>alaha-</i> and <i>alada/ehali-</i>,' Les langues d’attestation fragmentaires dans l’espace méditerranéen au 1er millénaire avant notre ère, Université de Rouen, Rouen, France, June 26, 2012
+- 'Ablaut Patterns in the Hittite <i>hi</i>-Conjugation,' 24nd Annual UCLA Indo-European Conference, UCLA, Los Angeles CA October 26, 2012
+- '“Western Affinities” of Anatolian,' XIV. Fachtagung der Indogermanischen Gesellschaft, Copenhagen, Denmark, September 18, 2012
+- 'Hittite <i>nakku(wa)-</i> ‘image(s) of the dead’,' 223nd Meeting of the American Oriental Society, Portland OR, March 15, 2013
+- 'Mediopassives in <i>\*-ske/o-</i> to Active Intransitives,' Thirty-Second East Coast Indo-European Conference, Adam Mickiewicz University, Poznań, Poland, June 22, 2013
+- 'The Tocharian <i>s-</i>Preterite,' Tocharian Texts in Context, Universität Wien, Vienna, Austria, June 27, 2013
+- 'Alleged “Right Dislocation” in Hittite, 224th Meeting of the American Oriental Society, Phoenix AZ, March 15, 2014
+- 'More Anatolian Nominal Derivatives in <i>\*-o-</i>,' Thirty-third East Coast Indo-European Conference, Virginia Polytechnic University, Blacksburg VA, June 7, 2014
+- 'Hittite and Luvian <i>uppa-</i> and Hittite <i>uiya-</i>,' Ninth International Congress of Hittitology, Hitit Üniversitesi, Çorum, Turkey, September 2, 2014
+- 'The Source(s) of Indo-European Participles in <i>\*-e/ont-</i>,' Verbal Adjectives and Participles in the Indo-European Languages: Arbeitstagung of the Society for Indo-European Studies, École Normale Supérieure, École Pratique des Hautes Études and Université de Paris-Sorbonne, Paris, France, September 25, 2014
+- 'Initial <i>\*sp-</i> in Hittite and <i>šipand-</i> ‘to libate’,' Thirty-Fourth East Coast Indo-European Conference, Universität Wien, Vienna, Austria, June 6, 2015
+- 'Hittite and Indo-European: Revolution and Counterrevolution,' 100 Jahre Entzifferung Des Hethitischen – Morphosyntaktische Kategorien in Sprachgeschichte und Forschung. Arbeitstagung der Indogermanischen Gesellschaft. Philipps-Universität Marburg, Marburg, Germany, September 21, 2015
+- 'Hittite Historical Phonology after 100 Years (and after 20 Years),' Hrozný and Hittite: The First Hundred Years”, Charles University, Prague, Czech Republic, November 11, 2015
+- 'Two “New” Luvian Verbal Roots,' Thirty-Fifth East Coast Indo-European Conference, University of Georgia, Athens GA, June 6, 2016
+- 'Lengthened Grades of PIE <i>\*CaC</i> Roots,' Zurück zur Wurzel – Struktur, Funktion und Semantik der Wurzel im Indogermanischen: 15. Fachtagung der Indogermanischen Gesellschaft, Wien, September 16, 2016
+- 'A Possible New Greco-Carian Contact Phenomenon,' In Search of the Golden Fleece: Linguistic and Cultural Interactions between Greece and the Ancient Near East, Oxford, United Kingdom, January 28, 2017
+- 'Lycian Relative Clauses,' Current Research on Lycian: International Workshop of the Digital Philological-Etymological Dictionary of the Minor Ancient Anatolian Corpus Languages, Ludwig-Maximilians-Universität München, February 16, 2017
+- 'The Future of Hittitology,' 10th International Congress of Hittitology/10. Uluslararası Hititolji Kongresi: The Next 100 Years, University of Chicago, Chicago IL, September 1, 2017 (invited lecture)
+- 'Hittite <i>ḫandā(i)-</i> ‘to align, arrange, etc.’ and PIE Metaphors for ‘(morally) right’,' The Split: Reconstructing Early Indo-European Language and Culture, University of Copenhagen, Copenhagen, September 14, 2017
+- 'The Periodization of Hittite Texts: A Reassessment,' 33. Deutscher Orientalistentag, Friedrich-Schiller-Universitat Jena, Jena, September 21, 2017 (invited lecture)
+- 'Luvo-Lycian Denominative Verbs Revisited,' 'Luwic' Dialects: Inheritance and Diffusion 5th Workshop, Universidade de Santiago, Santiago de Compostela, January 26, 2018
+- 'Old Versus Middle Script Revisited,' Workshop Hittite Paleography, The Oriental Institute, University of Chicago, Chicago IL, June 12, 2018
+- 'Bilingual Texts in First-Millennium Anatolia,' Beyond All Boundaries: Anatolia in the 1st Millennium B.C., Conference Center Monte Verità, Ascona, June 19, 2018
+
+## Invited Lectures and Lecture Series for Professional Audiences
+
+- 'Anatolian and Beyond,' Ancient Studies Colloquium: Indo-European Origins, Johns Hopkins University, Baltimore, MD, November 14, 1988
+- 'Recent Developments in Hieroglyphic Luvian,' Near Eastern Languages Seminar, Yale University, New Haven, CT, February 26, 1990
+- 'Comparative and Historical Grammar of Anatolian,' (lecture series) Harvard University, Cambridge, MA, May 13-17, 1991
+- '<i>l</i>-stem Nominals in Anatolian,' Freie Universität Berlin, Berlin, Germany, June 15, 1995
+- 'Anatolian Comparative & Historical Grammar' (lecture series), Institut für Sprachwissenschaft der Universität Wien, Vienna, Austria, June 8-23, 1995
+- 'Non-Reflexive Uses of the Hittite "Reflexive" Particle <i>-z(a)</i>,' Department of Linguistics, University of California, Berkeley, Berkeley, CA, February 13, 1998
+- 'The Category of Number in Hittite and Other Languages of Anatolia,' Oriental Institute, University of Chicago, Chicago, IL, November 19, 1998
+- 'Plaiting and Commingling in Ancient Anatolia and Greece: a Sexual Metaphor?', for miniseries Linguistic Reconstruction: Culture and Language in History, University of Chicago, Chicago, IL, November 20, 1998
+- 'Covert Possessive Compounds in Hittite,' Universität Münster, Münster, Germany, October 14, 1999
+- 'A Hittite Fertility Rite?', Universität Münster, Münster, Germany, October 14, 1999
+- 'Comparative and Historical Grammar of Anatolian' (lecture series), Freie Universität Berlin, Berlin, Germany, April 10-14, 2000
+- 'The Current Status of the "Indo-Hittite" Hypothesis,' Universität Köln, Köln, Germany, April 18, 2000
+- 'Gender and Number in PIE and Anatolian,' Universität Köln, Köln, Germany, April 19, 2000
+- 'The Category of Number in PIE, Anatolian and Tocharian,' Universität Bonn, Bonn, Germany, April 19, 2000
+- 'Comparative and Historical Grammar of Anatolian' (lecture series), Kyoto University, Kyoto, Japan, June 28-July 7, 2000
+- 'The Current State of the "Indo-Hittite" Hypothesis,' Kyoto University, Kyoto, Japan, July 1, 2000
+- 'Sociolinguistics in the Hittite Empire. Hittite and Luvian,' University of South Carolina, Columbia, SC, February 16, 2001
+- 'Readings in Hieroglyphic Luvian of the First Millennium,' Università degli Studi di Roma "La Sapienza", Rome, Italy, April 2,9,18,23, 2001
+- 'Introduction to the Anatolian Languages,' Università degli Studi di Roma "La Sapienza", Rome, Italy, April 10, 2001
+- 'Problems of Nominal and Verbal Morphology in the Anatolian Languages,' Università degli Studi di Roma "La Sapienza", Rome, Italy, April 18&23, 2001
+- 'Hittite <i>harp(p)-</i> and Derivatives,' Università degli Studi di Firenze, Florence, Italy, April 26, 2000 and Friedrich-Alexander-Universität Erlangen-Nürnberg, Erlangen, Germany, May 3, 2001
+- 'Comparative and Historical Grammar of Anatolian' (lecture series), Friedrich-Alexander-Universität Erlangen-Nürnberg, Erlangen, Germany, March 11-15, 2002
+- 'Topics in Anatolian Historical Grammar,' Universität Köln, Cologne, Germany, June 13, 2002
+- 'Introduction to Luvian,' Universität Köln, Cologne, Germany, June 14, 2002
+- 'Historical and Comparative Grammar of the Anatolian Languages,' École Pratique des Hautes Études, Paris, France, June 17-18, 2002
+- 'Latin <i>īnsolēscō</i>, Hittite <i>šulle(šš)-</i> and PIE Statives in <i>-ē-</i>,' Harvard University, Cambridge, MA, May 1, 2003
+- 'Sex, Lies, and Clay Tablets: What the Hittites Have to Tell Us,' Louisiana State University, Baton Rouge LA, November 13, 2003
+- 'Fosterage in Lycian and Luvian Societies,' Pennsylvania State University, State College, PA, January 28, 2005 and University of California at Los Angeles, Los Angeles CA, March 1, 2006
+- 'Indo-European Linguistics: a 19th-Century Science in the 21st Century,' Collitz Lecture, Summer Institute of the Linguistic Society of America, Masachusetts Institute of Technology, Cambridge MA, July 28, 2005
+- 'Anatolian Local Adverbs from an IE Perspective,' University of California at Los Angeles, Los Angeles, CA, March 2, 2006
+- 'The Etymology of Latin <i>asper</i>,' University of North Carolina at Greensboro, Greensboro NC, February 13, 2007 and Centre Alfred Ernout, Paris, France, March 31, 2007
+- 'Hittite Neuter <i>s-</i>Stems,' École Pratique des Hautes Études, Paris, France, April 5, 2007
+- 'The Problem of the Ergative Case in Hittite,' Cornell University, Ithaca NY, May 3, 2007
+- 'The Rise of Hittite Literacy: a Third Way,' Oriental Institute, University of Chicago, Chicago IL, March 13, 2008
+- 'Hittite <i>talliye/a-</i> ‘invoke, entreat’ (?) and Related Problems,' University of Michigan, Ann Arbor MI, March 28, 2008
+- 'Luvo-Lycian Dorsals Revisited,' Harvard University, Cambridge MA, December 12, 2008
+- 'The Development of “Split Ergativity” in Hittite (Anatolian),' Keynote Address, UNC-Chapel Hill Spring Linguistics Colloquium, March 21, 2009
+- 'Syntax and Prosody in Hittite Word Order,' Language Variation and Change Workshop, University of Chicago, Chicago IL, January 23, 2010
+- 'Medial <i>\*h3</i> in Hittite and Luvian' and '<i>i-</i>stem Nominals in Anatolian,' Anatolian Spring in Copenhagen, Roots of Europe, University of Copenhagen, Copenhagen, Denmark, April 29-30, 2011
+- 'Topics in Anatolian Historical Grammar' (lecture series), Universität München, Munich, Germany, March 28-30, 2012
+- 'The Middle Voice in Hittite and PIE,' Università di Pavia, Pavia Italy, October 12, 2012; Universität Erlangen-Nürnberg, Erlangen, Germany, November 12, 2012; Universität Marburg, Marburg, Germany, November 14, 2012; Universität Wien, Vienna, Austria, December 4, 2012
+- 'The Function of the PIE Perfect,' Universit degli Studi di Roma "La Sapienza", Rome, Italy, October 15, 2012
+- 'Newest Thoughts on the <i>ḫi</i>-Conjugation,' Università degli Studi di Siena, Siena, Italy, October 16, 2012
+- 'Language Contact between Closely Related Languages: a Case Study,' Universität zu Köln, Cologne, Germany, November 8, 2012
+- '(Selected) Topics in Anatolian Historical Grammar,' Universität zu Köln, Cologne, Germany, November 8-9, 12, 15-16, 26, 2012
+- 'Agreement Patterns in Old and Middle Hittite,' (invited lecture) 10th Annual MLK Day Linguistics Symposium: Indo-European Linguistics, Ohio State University, Columbus OH, January 19, 2013
+- 'The Syllable as a Conditioning Factor in Sound Change,' 'Form and Function: The Riddle of the PIE “Proto-Middle”,' ' Deep vs. Shallow Contact: Can We Identify the Former?,' ' What Do Linguistic “Trees” Actually Model?,' École d’été: Linguistique diachronique et reconstruction, INALCO, Paris, France, July 1, 3, 4, 5 2013
+- 'Introduction to Anatolian Languages' (lecture series), Charles University, Prague, Czech Republic, December 16-20, 2013
+- 'The Dative-Locative Singular in Hieroglyphic Luvian,' Universität Marburg, Marburg, Germany, September 29, 2014
+- 'Hittites, Greeks and Others: Interaction between Ancient Anatolia, Greece and the Levant,' University of Kentucky, Lexington KY, March 24, 2015
+- 'Hittite “Hyperbaton”—The Syntax-Phonology Interface,' University of Kentucky, Lexington KY, March 25, 2015
+- 'More on Ablaut Patterns in the <i>ḫi-</i>Conjugation,' GSAS Workshop on Indo-European and Historical Linguistics, Harvard University, Cambridge MA, April 20 2015
+- 'The Anatolian Languages,' Indo-European Summer School, Università degli Studi di Pavia, Pavia, Italy, September 7-11, 2015
+- 'Initial <i>\*sp-</i> in Hittite and <i>šipand-</i> ‘to libate’,' Institut für Vergleichende Sprachwissenschaft, Universität Zürich, Zürich, Switzerland, November 10, 2015
+- 'Hittites, Greeks, and Others: Interaction between Ancient Anatolia, Greece, and the Levant,' New Bulgarian University, Sofia, Bulgaria, November 16, 2015
+- 'Relative Clauses in Indo-European Anatolian Languages,' University of Texas-Austin, Austin TX, February 24, 2016 and Ghent University, Ghent, Belgium, April 11, 2016
+- 'Semantics and Etymology of Hittite <i>takš-</i>,' Indo-Iranian and its Indo-European Origins: Workshop in Honor of Sasha Lubotsky on the Occasion of his 60th Birthday, Leiden University, Leiden, The Netherlands, April 9, 2016
+- 'The Etymology of Luvian <i>tarrawa-/tarrawann(i)-</i> and Hittite <i>tarru-</i>,' Vergleichende Sprachwissenschaft und Keltologie, Philipps-Universität Marburg, November 20, 2018
+
+## Public Lectures
+
+- 'Language and Prehistory: Who Were the Indo-Europeans and Why Do We Care?' Mensa Regional Gathering, Burlington, NC, May 25, 1996
+- 'Chinese Dialects,' part of UNC-CH University Center for International Studies presentation at Multicultural Day, Westlake Middle School, Wake County, November 21, 1997
+- 'Chinese Dialects,' Chinese Language Seminar, North Carolina School for Science and Math, Durham NC, March 24, 1998
+- 'Latin and Indo-European,' Latin Class in Virgil, Chapel Hill Central High School, Chapel Hill NC, October 19, 2005
