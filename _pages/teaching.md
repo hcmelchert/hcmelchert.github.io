@@ -21,7 +21,22 @@ author_profile: true
 - **1977:** Instructor in Linguistics, Harvard University Summer School
 - **1972–1975:** Teaching fellow in Linguistics, Harvard University
 
-### Courses Taught
+### Courses Taught (UCLA)
+
+- Indo-European Phonology (regularly)
+- Indo-European Morphology (regularly)
+- Indo-European Syntax (regularly)
+- Introductory Hittite (regularly)
+- Introduction to Historical Linguistics (regularly)
+- Introduction to Indo-European Linguistics (regularly)
+- Language Change
+- Indo-European Nominal Morphology
+- Indo-European Verbal Morphology
+- Anatolian Historical Grammar
+- Advanced Hittite
+- Luvian and Lycian
+
+### Courses Taught (UNC-CH)
 
 - Introduction to Language (regularly)
 - Introduction to Historical Linguistics (regularly)
@@ -42,6 +57,7 @@ author_profile: true
 
 ## Education
 
+- **2016:** Ehrendoktorat der Philosophie (honorary doctorate), Leopold-Franzens-Universität Innsbruck
 - **1967–68, 72–77:** Harvard University, Ph.D. in Linguistics
   - Major: Indo-European
   - Minor: Chinese Linguistics
@@ -65,6 +81,7 @@ author_profile: true
 - Bernhard Koller, 'Studies in Tocharian Phonology above the Word-Level,' 2015
 - Mattyas G. C. Huggard, 'Wh-words in Hittite: A Study in Syntax-Semantics and Syntax-Phonology Interfaces,' 2015
 - Kaspars Ozoliņš, 'Revisiting Proto-Indo-European Schwebeablaut,' 2015
+- Anthony Yates, 'Lexical Accent in Cupeño, Hittite, and Indo-European,' 2017
 
 ### Ph.D. Dissertations Directed (UNC-CH)
 
@@ -85,6 +102,8 @@ author_profile: true
 - Kristin Reichardt, 'Old English *wif* and *cwen/cwene*,' 1996
 - Donna Salisbury, '*anda* and *andan* in Neo-Hittite,' 1996
 - Benito Vilá, 'The Vocabulary of Self and Other in Sixteenth and Seventeenth Century Chilean Documents,' 2000
+- Claire Lampp, 'Negation in Modern Hindi-Urdu: the Development of *nahII*,' 2006
+- Jeffrey Conn, 'The Greek Prothetic Vowel and the Sanskrit Long-Reduplicant Perfect: A Statistical Evaluation of the Indo-European Laryngeal Theory,' 2007
 
 ### Administrative Duties (University of North Carolina at Chapel Hill)
 
@@ -102,7 +121,7 @@ author_profile: true
 
 - American Oriental Society
 - Indogermanische Gesellschaft, member and American representative on the Internationaler Beirat (Stellvertreter 2008–2012)
-- Co-editor, Brill's Studies in Indo-European Languages and Linguistics
+- Co-editor, Brill's Studies in Indo-European Languages and Linguistics (2008–2021)
 - Consultant, *The Hittite Dictionary of the Oriental Institute of the University of Chicago*
 - Member, Editorial Advisory Board of *Tocharian and Indo-European Studies*
 - Member, Redaktioneller Beirat, *Kratylos*

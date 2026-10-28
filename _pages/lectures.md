@@ -111,6 +111,23 @@ author_profile: true
 - 'Luvo-Lycian Denominative Verbs Revisited,' 'Luwic' Dialects: Inheritance and Diffusion 5th Workshop, Universidade de Santiago, Santiago de Compostela, January 26, 2018
 - 'Old Versus Middle Script Revisited,' Workshop Hittite Paleography, The Oriental Institute, University of Chicago, Chicago IL, June 12, 2018
 - 'Bilingual Texts in First-Millennium Anatolia,' Beyond All Boundaries: Anatolia in the 1st Millennium B.C., Conference Center Monte Verità, Ascona, June 19, 2018
+- 'The Phoenician-Luvian Bilingual of Karatepe Revisited,' Languages and Cultures in Contact in the Ancient Mediterranean, PALaC, Dipartimento di culture e civiltà, Università di Verona, Verona, Italy, February 26, 2019
+- 'Hittite <i>tarru-</i> ‘firm, secure’ and its PIE Source,' Thirty-Eighth East Coast Indo-European Conference, University of Pennsylvania, Philadelphia PA, June 21, 2019
+- 'The Anatolian Subgroup of Indo-European in the Light of the “Minor” Languages,' Sign, Speech, and Society in the Ancient Near East: 100 Years of Ancient Near Eastern Studies in Prague, Charles University, Prague, Czech Republic, September 17, 2019 (invited lecture)
+- '“Pluti” and Poetry,' The Scholarly World of Vyacheslav Vsevolodovich Ivanov: Assessments, Reassessments, Reflections, UCLA, Los Angeles CA, November 15, 2019
+- 'Hittite <i>uppi/a-</i> and Luvic /upa-/~/o:pa-/ and /uba-/ Revisited,' Thirty-Ninth East Coast Indo-European Conference, Virginia Tech, Blacksburg VA, June 12, 2020
+- 'Luvo-Hittite <i>latti-</i>,' 232nd Meeting of the American Oriental Society, Boston MA, March 18-21, 2022
+- 'Hittite <i>waqqariye/a-</i> ‘to fail’ and <i>waqqā-</i> ‘to lack’,' Forty-First East Coast Indo-European Conference, Harvard University, Cambridge MA, June 25, 2022
+- 'Hittite Contact Effects on Luwian?' Languages and Cultures in Contact in the Ancient Mediterranean 2023 (PALaC), Università di Verona, Verona, Italy, May 11, 2023
+- 'The <i>Āššiya-</i> Deities,' The Gods of Anatolia and their Names, 1st Workshop, Universitat de Barcelona, Barcelona, Spain, May 17, 2023
+- 'Hittite <i>nekku</i>,' XII. Uluslararası Hititoloji Kongresi / The 12th International Congress of Hittitology, İstanbul Üniversitesi, Istanbul, Turkey, September 8, 2023
+- 'Toward a Prosodic Account of Hittite “Hyperbaton”,' (with Anthony Yates), 234th Meeting of the American Oriental Society, Chicago IL, March 22, 2024
+- 'Genitives and Genitival Adjectives in Anatolian: A Two-way Street,' Branch Out: Rethinking the Branching Order of the Indo-European Language Family through the Diachronic Morphophonology of the <i>o</i>-Stem Genitive Singular Ending, University of Copenhagen, Copenhagen, Denmark, May 15-17, 2024
+- 'Carian <i>trquδe</i>, <i>mλane</i> and <i>šanne</i> and Implications,' The Gods of Anatolia and Their Names (2nd Workshop), Universidad Complutense de Madrid, Madrid, Spain, May 19, 2024
+- 'The Carian Alphabet of Egypt and Related Issues,' Lingue Antiche e Sistemi Scrittori in Contatto, Sapienza Università di Roma, Rome, Italy, May 27-28, 2024
+- 'Hittite <i>šiye/a-<sup>mi</sup></i> ‘to throw, shoot’ vs. <i>šai-<sup>ḫḫi</sup></i> ‘to impress, seal’,' Forty-Fourth East Coast Indo-European Conference, Ludwig-Maximilians-Universität München, Munich, Germany, June 20, 2025
+- \['Luwian as a Cultural and Linguistic Intermediary,' Interconnectivity and Communication: Cultural and Intellectual Transmission in Ancient Anatolia, Università Ca’ Foscari Venezia, Venice, Italy, May 22, 2025—not delivered\]
+- 'Distinguishing Archaisms, Innovations and Errors in Hittite Manuscripts,' Archaisms vs. Innovations: Topics in Relative Chronology, Arbeitstagung of the Indogermanische Gesellschaft, Charles University, Prague, Czech Republic, September 16, 2025
 
 ## Invited Lectures and Lecture Series for Professional Audiences
 
@@ -172,6 +189,10 @@ author_profile: true
 - 'Relative Clauses in Indo-European Anatolian Languages,' University of Texas-Austin, Austin TX, February 24, 2016 and Ghent University, Ghent, Belgium, April 11, 2016
 - 'Semantics and Etymology of Hittite <i>takš-</i>,' Indo-Iranian and its Indo-European Origins: Workshop in Honor of Sasha Lubotsky on the Occasion of his 60th Birthday, Leiden University, Leiden, The Netherlands, April 9, 2016
 - 'The Etymology of Luvian <i>tarrawa-/tarrawann(i)-</i> and Hittite <i>tarru-</i>,' Vergleichende Sprachwissenschaft und Keltologie, Philipps-Universität Marburg, November 20, 2018
+- 'Luvo-Hittite <i>latti-</i>, Hittite <i>šinaḫḫa-</i>, and Hittite Military Tactics,' Dipartimento di culture e civiltà, Università di Verona, Verona, Italy, February 25, 2019
+- 'Hittite <i>š(a)raku-</i> and Luwo-Hittite <i>šari(ku)wa-</i> troops,' Anatolian Seminar, University of Oxford, Oxford UK, June 13, 2024
+- 'Anatolian Historical Linguistics' (lecture series), Oxford Anatolian Languages and Linguistics Summer School, University of Oxford, Oxford UK, June 18-22, 2024
+- 'First Thoughts on Kalasmian,' 2nd Anatolian Languages and Linguistics Summer School, University of Oxford, Oxford UK, June 24, 2026
 
 ## Public Lectures
 

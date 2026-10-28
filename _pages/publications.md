@@ -19,6 +19,8 @@ redirect_from:
 - <i>Anatolian Historical Phonology</i>, Rodopi, Amsterdam, 1994, iv + 457pp.
 - <i>A Dictionary of the Lycian Language</i>, Beech Stave Press, Ann Arbor/New York, 2004, xvii + 138 pp. [www.beechstave.com](http://www.beechstave.com)
 - <i>A Grammar of the Hittite Language</i> (with Harry A. Hoffner, Jr.), Eisenbrauns, Winona Lake, 2008, xxii + 468 pp. (Part 1), 75 pp. (Part 2) [Addenda & Corrigenda (PDF)](/files/Addenda%26CorrigendaGrHL2.pdf)
+- <i>A Grammar of the Hittite Language</i>, Second Edition (with Harry A. Hoffner, Jr.†), Eisenbrauns, University Park PA, 2024, xxxi + 677 pp. (Part 1), 74 pp. (Part 2)
+- <i>A Dictionary of Cuneiform Luwian</i>, Beech Stave Press, Ann Arbor/New York, 2024, xxi + 344 pp.
 
 ## Edited Books
 
@@ -187,22 +189,54 @@ redirect_from:
 158. 'The Anatolian Hieroglyphic Signs L 41, L 172 and L 319 = L 416,' in <i>“And I Knew Twelve Languages”: A Tribute to Massimo Poetto on the Occasion of His 70th Birthday</i> (edd. N. Bolatti Guzzo & P. Taracha) (2019) 356-377 [PDF](/files/melchert2019FSpoettoHieroglyphicSigns.pdf)
 159. 'Solar and Sky Deities in Anatolian,' in <i>QAZZU warrai: Anatolian and Indo-European Studies in Honor of Kazuhiko Yoshida</i> (edd. A. A. Catt, R. I. Kim & Brent Vine) (2019) 239-249 [PDF](/files/melchert2019FSyoshidaSolar%26SkyDeities.pdf)
 160. 'Hittite and Luvian <i>uppa-</i> and Hittite <i>uiya-</i>,' in <i>IX. Uluslararası Hititoloji Kongresi Bildirileri Çorum 08-14 Eylül 2014 Acts of the IXth International Congress of Hittitology Çorum, September 08-14, 2014</i> (ed. A. Süel) (2019) 567-578 [PDF](/files/melchert2019ICH9uppa-%26uiya-.pdf)
-161. 'Hittite Historical Phonology after 100 Years (and after 20 years),' in <i>Hrozný and Hittite: The First Hundred Years. Proceedings of the International Conference Held at Charles University, Prague, 11–14 November 2015</i> (edd. R. I. Kim, J. Mynářová & P. Pavúk) (2020) 258-276 [PDF](/files/melchert2020Hrozny%26Hittite%20Phonology.pdf)
-162. 'Hittite <i>ḫandā(i)-</i> ‘to Align, Arrange, etc.’ and PIE Metaphors for ‘(morally) right’,' in <i>Dispersals and Diversification: Linguistic and Archaeological Perspectives on the Early Stages of Indo-European</i> (edd. Thomas Olander and Matilde Serangeli) (2020) 166-178 [PDF](/files/melchert2020Dispersals%20Hitt.%20handai-ETC.pdf)
-163. 'Hittite <i>tarru-</i> ‘firm, secure’ and Luvian Cognates,' in <i>Ὀνομάτων ἵστωρ: Mélanges offerts à Charles de Lamberterie</i> (edd. C. Le Feuvre and D. Petit) (2020) 541-553 [PDF](/files/melchert2020FSdelamberterie%20tarru-.pdf)
-164. 'Luwian,' in <i>A Companion to Ancient Near Eastern Languages</i> (ed. R. Hasselbach-Andee) (2020) 239-256
+161. 'Luwian Stela. Til Barsip Stela. Tell Ahmar 6,' in <i>Prophets and Prophecy in the Ancient Near East</i> (ed. M. Nissinen) (2019) 275-278
+162. 'Hittite Historical Phonology after 100 Years (and after 20 years),' in <i>Hrozný and Hittite: The First Hundred Years. Proceedings of the International Conference Held at Charles University, Prague, 11–14 November 2015</i> (edd. R. I. Kim, J. Mynářová & P. Pavúk) (2020) 258-276 [PDF](/files/melchert2020Hrozny%26Hittite%20Phonology.pdf)
+163. 'Hittite <i>ḫandā(i)-</i> ‘to Align, Arrange, etc.’ and PIE Metaphors for ‘(morally) right’,' in <i>Dispersals and Diversification: Linguistic and Archaeological Perspectives on the Early Stages of Indo-European</i> (edd. Thomas Olander and Matilde Serangeli) (2020) 166-178 [PDF](/files/melchert2020Dispersals%20Hitt.%20handai-ETC.pdf)
+164. 'Hittite <i>tarru-</i> ‘firm, secure’ and Luvian Cognates,' in <i>Ὀνομάτων ἵστωρ: Mélanges offerts à Charles de Lamberterie</i> (edd. C. Le Feuvre and D. Petit) (2020) 541-553 [PDF](/files/melchert2020FSdelamberterie%20tarru-.pdf)
+165. 'Luwian,' in <i>A Companion to Ancient Near Eastern Languages</i> (ed. R. Hasselbach-Andee) (2020) 239-256
+166. 'The Etymology of Hieroglyphic Luvian <i>tina<sup>(n)</sup>t(a)-</i> ‘tithe’,' in <i>Etymologus</i> (edd. H. Bichlmeier, O. Šefčík, R. Sukač) (2020) 299-308
+167. 'The Anatolian Subgroup of Indo-European in Light of the “Minor” Languages,' in <i>Chatreššar 2020</i> (2020 [2021]) 32-41
+168. 'A Possible New Greco-Carian Contact Phenomenon,' in <i>Linguistic and Cultural Interactions between Greece and the Ancient Near East: In Search of the Golden Fleece</i> (ed. M. Bianconi) (2021) 108-115
+169. 'Lycian Relative Clauses,' in <i>Current Research on Lycian: International Workshop of the Digital Philological-Etymological Dictionary of the Minor Ancient Anatolian Corpus Languages, Ludwig-Maximilians-Universität München 16-17 February 2017</i> (ed. Z. Simon) = <i>Hungarian Assyriological Review</i> 2 (2021) 65-76
+170. 'Bilingual Texts in First-Millennium Anatolia,' in <i>Beyond All Boundaries: Anatolia in the First Millennium BC</i> (edd. Annick Payne, Šárka Velhartická & Jorit Wintjes) (2021) 349-378
+171. 'Hittite Neuter <i>i-</i>Stems,' in <i>lyuke wmer ra: Indo-European Studies in Honor of Georges-Jean Pinault</i> (edd. Hannes A. Fellner, Melanie Malzahn, and Michaël Peyrot) (2021) 379-390
+172. 'A Myth of Pirwa,' <i>News from the Lands of the Hittites</i> 5-6 (2021-22) XVII–XXXI
+173. 'Lengthened Grades of PIE <i>\*CaC</i> Roots,' in <i>Zurück zur Wurzel – Struktur, Funktion und Semantik der Wurzel im Indogermanischen: Akten der 15. Fachtagung der Indogermanischen Gesellschaft vom 13. bis 16. September 2016 in Wien</i> (edd. M. Malzahn, H. A. Fellner, and T.-S. Illés) (2022) 197-204
+174. 'Non-focused “Fronted” Constituents in Hittite,' in <i>Ha! Linguistic Studies in Honor of Mark R. Hale</i> (edd. L. Grestenberger, C. Reiss, H. A. Fellner, and G. Z. Pantillon) (2022) 263-275
+175. 'Binding and smiting: One More Merism in Luvian Incantations,' (with Ilya Yakubovich), <i>Journal of the American Oriental Society</i> 142 (2022) 371-385
+176. 'New Luwian Verbal Endings of the First Person Plural,' (with Ilya Yakubovich), <i>Incontri Linguistici</i> 45 (2022) 11-30
+177. 'Hittite <i>dāri(ya)nu-</i> ‘to weary; to importune’,' <i>N.A.B.U.</i> 2022.1 (2022) 43-44
+178. 'Hittite Reflexes of the PIE Root “\*<i>welH-</i>”,' in <i>Colloquia Classica et Indogermanica VII: Miscellanea in honorem Nikolai N. Kazansky septuagenarii</i> (= <i>Acta Linguistica Petropolitana</i> 18.1) (2022) 246-266
+179. 'Hittite <i>namma</i> in Determiner Phrases,' in <i>Συντακτικός: Studien zur historischen Syntax, Pragmatik und Etymologie der indogermanischen Sprachen. Gedenkschrift Heinrich Hettrich</i> (ed. K. Becker et al.) (2022) 185-200
+180. 'More on Ablaut Patterns in the <i>ḫi-</i>Conjugation,' <i>Indo-European Linguistics</i> 10 (2022) 107-128
+181. 'The syntax of universal quantifiers in Luwic (and Hittite),' in <i>New Approaches on Anatolian Linguistics</i> (ed. J. V. García Trabazo et al.) (2023) 151-173
+182. 'The Surface Position of Hittite Subordinating <i>kuit</i>,' in <i>The Life Cycle of Language: Past, Present, and Future</i> (edd. D. Kavitskaya and A. C. L. Yu) (2023) 125-136
+183. 'Hittite contact effects on Luwian?,' in <i>Proceedings of the Conference Languages and Cultures in Contact in the Ancient Mediterranean Verona 11–12 May 2023</i> (ed. F. Giusfredi et al.) (= <i>News from the Lands of the Hittites</i> 7) (2023) 155-171
+184. 'Hittite <sup>UZU</sup><i>mu/aḫḫ(a)r(a)i-</i> ‘flesh of the thigh, ham’,' <i>Journal of Cuneiform Studies</i> 76 (2024) 185-190
+185. 'Initial <i>a-</i> and <i>á-</i> in Hieroglyphic Luwian,' in <i>Between Philology and Archaeology: Studies on Ancient Anatolia and the Near East Offered to Massimiliano Marazzi</i> (edd. N. Bolatti Guzzo and R. Francia) (2024) 173-181
+186. 'Luvo-Hittite <i>latti-</i>,' in <i>Şapinuwa’ya Adanmış Hayatlar: Aygül Süel ve Mustafa Süel Armağan Kitabi</i> (edd. E. Reyhan, L. M. Karakurt and Ü. T. Cengiz) (2024) 253-257
+187. 'Celtic <i>\*meh<sub>2</sub>-ró-</i> ‘large, great’ versus Germanic <i>\*meh<sub>1</sub>-ró-</i> ‘made known, spoken of’,' in <i>The Method Works: Studies in Honor of Don Ringe</i> (ed. J. F. Eska) (2024) 297-306
+188. 'The <i>Āššiya</i>-deities,' in <i>Gods and Languages in Ancient Anatolia</i> (edd. M. Vernet, I.-X. Adiego, J. V. García Trabazo, M. Paz de Hoz, and B. Obrador-Cursach) (2024) 119-135
+189. 'Cilicia in the Iron Age,' in <i>Contacts of Languages and Peoples in the Hittite and Post-Hittite World. Vol. 2, The 1st Millennium and the Eastern Mediterranean Interface</i> (edd. F. Giusfredi, A. Matessi, S. Merlin and V. Pisaniello) (2025) 93-108
+190. 'The Medio-Passive in Transition from Old to New Hittite,' in <i>Ḫattannaš: A Festschrift in Honor of Theo van den Hout Presented on the Occasion of His Sixty-Fifth Birthday</i> (edd. P. Goedegebuure and J. Hazenbos) (2025) 263-273
+191. 'A Hittite Marriage Procession,' in <i>Ḫattušaš utnē išḫameški: Hittite and Other Ancient Near Eastern Studies Presented to Piotr Taracha on the Occasion of His 65th Birthday</i> (edd. N. Bolatti Guzzo, M. Kapełuś and A. Kryszeń) (2025) 180-187
+192. 'Carian <i>trquδe</i>, <i>mλane</i> and <i>šanne</i> and Implications,' in <i>Gods and Cults in Anatolia from the Hittite Times up to the Roman Period</i> (edd. J. P. Sánchez Hernández et al.) (2025) 167-192
+193. 'Unusual Control Structures in Hittite Infinitives,' in <i>GARY HOLLAND ΜΝΕΙΑΣ ΧΑΡΙΝ: Indo-European and Related Studies in Memory of Gary B. Holland</i> (edd. R. Burns, A. Rizza and M. Zorman) (2026) 161-165
+194. 'Postposed Relative Clauses in Hittite,' in <i>»sô manag uuîslîk uuord« Studien zum Spannungsfeld von Synchronie und Diachronie</i> (edd. Maria Kozianka, Roland Schuhmann und Susanne Zeilfelder) (2026) 153-159
+195. 'Hittite <sup>GIŠ</sup><i>ḫuimpa-</i>,' in <i>Oğuz Soysal’a Armağan Agade’den Šamuḫa’ya / From Agade to Šamuḫa: Studies in Honour of Oğuz Soysal on the Occasion of His 65th Birthday</i> (edd. Zekiye Nihan Kırçıl, Tolga Pelvanoğlu and Burcu Özer) (2026) 369-379
 
 ### Forthcoming
 
-- 'The Role of Indo-European Studies in the XXIst Century,' in <i>Oxford Handbook of Diachronic and Historical Linguistics</i> (ed. P. Crisma and G. Longobardi) (to appear)
-- 'Lengthened Grades of PIE <i>\*CaC</i> Roots,' in <i>Zurück zur Wurzel – Struktur, Funktion und Semantik der Wurzel im Indogermanischen: 15. Fachtagung der Indogermanischen Gesellschaft, Wien, September 16, 2016</i> (ed. Melanie Malzahn et al.) (to appear)
-- 'The Medio-Passive in Transition from Old to New Hittite,' (to appear in a forthcoming Festschrift)
-- 'The Etymology of Hieroglyphic Luvian <i>tina(n)t(a)-</i> ‘tithe’,' (to appear in a forthcoming Festschrift)
-- 'Lycian Relative Clauses,' in <i>Current Research on Lycian: International Workshop of the Digital Philological-Etymological Dictionary of the Minor Ancient Anatolian Corpus Languages, Ludwig-Maximilians-Universität München 16-17 February 2017</i> (ed. Z. Simon) (to appear)
-- 'Bilingual Texts in First-Millennium Anatolia,' in <i>Beyond All Boundaries: Anatolia in the 1st Millennium B.C.</i> (edd. Annick Payne and Jorit Wintjes)
-- 'Hittite Neuter <i>i-</i>Stems,' (to appear in a forthcoming Festschrift)
-- 'Luvo-Hittite <i>latti-</i>,' (to appear in a forthcoming Festschrift)
-- 'The Position of Anatolian,' in <i>Handbook of Indo-European Studies</i> (edd. A. Garrett & M. Weiss) (to appear)
+- 'Alleged Lenition of PIE <i>\*k<sup>w</sup></i> in Luwic and Hittite,' in <i>an-tu-uḫ-ši. In memoriam Heiner Eichner</i> (edd. M. Malzahn, H. A. Fellner, L. Grestenberger, S. Höfler and B. Koller) (forthcoming)
+- 'Anatolian. Part 3,' in <i>The Indo-European Languages</i><sup>3</sup> (ed. M. Kapović) (forthcoming)
+- 'Genitives and Genitival Adjectives in Anatolian: A Two-way Street,' in <i>Branch Out: Rethinking the Branching Order of the Indo-European Language Family through the Diachronic Morphophonology of the o-Stem Genitive Singular Ending</i> (ed. R. Pierini et al.) (forthcoming)
+- 'The Carian Alphabet of Egypt and Related Issues,' in <i>Ancient Languages and Writing Systems in Contact</i> (ed. Paolo Di Giovine) (forthcoming)
+- 'Hittite <i>nekku</i>,' in <i>XII. Uluslararası Hititoloji Kongresi / The 12th International Congress of Hittitology, 4–8 Eylül / 4th–8th of September 2023, İstanbul Üniversitesi, Istanbul</i> (forthcoming)
+- 'Luwian as a Linguistic and Cultural Intermediary,' in <i>Interconnectivity and Communication: Cultural and Intellectual Transmission in Ancient Anatolia</i> (edd. A. Payne and Š. Velhartická) (forthcoming)
+- 'Tocharian AB <i>särk/serke</i> ‘circlet, garland; cycle’ and Cognates,' (forthcoming in a Festschrift)
+- 'The Future of Hittitology,' in <i>Proceedings of the Tenth International Congress of Hittitology</i> (edd. P. Goedegebuure and T. P. J. van den Hout) (forthcoming)
+- 'The Etymology of Lydian <i>Qλdãn-</i> and <i>qaλm(λ)u-</i>,' in <i>Between Sardis and Gordion: Aspects of Culture and Society in pre-Hellenistic Lydia and Phrygia</i> (edd. N. Cahill and R. Oreshko) (forthcoming)
+- 'The Role of Indo-European Studies in the XXIst Century,' in <i>Oxford Handbook of Diachronic and Historical Linguistics</i> (edd. P. Crisma & G. Longobardi) (to appear)
 
 ## Reviews
 
