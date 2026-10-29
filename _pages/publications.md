@@ -301,6 +301,7 @@ redirect_from:
 - Erich Neu (1936-1999). <i>Indo-European Studies Bulletin</i>, UCLA 9/2 (2001) 20 [PDF](/files/erichneu.pdf)
 - In memoriam Alexandr Lehrman. <i>Journal of Indo-European Studies</i> 41.1/2 (2013) 311-317 (with Ilya Yakubovich) [PDF](/files/inmemoriamalexandrlehrman.pdf)
 - In memoriam Calvert Watkins. <i>Journal of Indo-European Studies</i> 41.3/4 (2013) 506-526 [PDF](/files/inmemoriamcalvertwatkins.pdf)
+- Jaan Puhvel: A Remembrance by H. Craig Melchert. Program in Indo-European Studies, UCLA (2026) [https://pies.ucla.edu/in-memoriam/jaan-puhvel/melchert/](https://pies.ucla.edu/in-memoriam/jaan-puhvel/melchert/)
 
 ## Other
 
