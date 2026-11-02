@@ -16,16 +16,16 @@ redirect_from:
 - <i>Lycian Lexicon,</i> self-published, Chapel Hill, 1989, iv + 122pp.
 - <i>Cuneiform Luvian Lexicon</i>, self-published, Chapel Hill, 1993, vi + 298pp. [PDF](/files/LUVLEX.pdf)
 - <i>Lycian Lexicon</i> (2nd revised edition), self-published, Chapel Hill, 1993, vi + 130pp.
-- <i>Anatolian Historical Phonology</i>, Rodopi, Amsterdam, 1994, iv + 457pp.
-- <i>A Dictionary of the Lycian Language</i>, Beech Stave Press, Ann Arbor/New York, 2004, xvii + 138 pp. [www.beechstave.com](http://www.beechstave.com)
+- <i>Anatolian Historical Phonology</i>, Rodopi, Amsterdam, 1994, iv + 457pp. [Publisher page](https://brill.com/display/title/30169)
+- <i>A Dictionary of the Lycian Language</i>, Beech Stave Press, Ann Arbor/New York, 2004, xvii + 138 pp. [Publisher page](http://www.beechstave.com/lycian.html)
 - <i>A Grammar of the Hittite Language</i> (with Harry A. Hoffner, Jr.), Eisenbrauns, Winona Lake, 2008, xxii + 468 pp. (Part 1), 75 pp. (Part 2) [Addenda & Corrigenda (PDF)](/files/Addenda%26CorrigendaGrHL2.pdf)
-- <i>A Grammar of the Hittite Language</i>, Second Edition (with Harry A. Hoffner, Jr.†), Eisenbrauns, University Park PA, 2024, xxxi + 677 pp. (Part 1), 74 pp. (Part 2)
-- <i>A Dictionary of Cuneiform Luwian</i>, Beech Stave Press, Ann Arbor/New York, 2024, xxi + 344 pp.
+- <i>A Grammar of the Hittite Language</i>, Second Edition (with Harry A. Hoffner, Jr.†), Eisenbrauns, University Park PA, 2024, xxxi + 677 pp. (Part 1), 74 pp. (Part 2) [Publisher page: Part 1](https://www.eisenbrauns.org/books/titles/978-1-64602-292-2.html) [Part 2](https://www.eisenbrauns.org/books/titles/978-1-64602-293-9.html)
+- <i>A Dictionary of Cuneiform Luwian</i>, Beech Stave Press, Ann Arbor/New York, 2024, xxi + 344 pp. [Publisher page](http://www.beechstave.com/)
 
 ## Edited Books
 
 - <i>Mír Curad. Studies in Honor of Calvert Watkins</i>, Institut für Sprachwissenschaft der Universität Innsbruck, Innsbruck, 1998, xviii+715 pp (chief editor, with Jay Jasanoff and Lisi Oliver)
-- <i>The Luwians</i> (Handbook of Oriental Studies, Section One, Near and Middle East Volume 68), Brill, Leiden/Boston, 2003, xix+383 pp [Addenda & Corrigenda (PDF)](/files/Addenda%20and%20Corrigenda.pdf)
+- <i>The Luwians</i> (Handbook of Oriental Studies, Section One, Near and Middle East Volume 68), Brill, Leiden/Boston, 2003, xix+383 pp [Publisher page](https://brill.com/edcollbook/title/8256) [Addenda & Corrigenda (PDF)](/files/Addenda%20and%20Corrigenda.pdf)
 
 ## Articles
 
